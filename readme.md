@@ -1,3 +1,3 @@
 # Timezones JSON
 
-JSON file with more than 200K+ cities timezone in UTC format.
+JSON file with more than 1642 cities timezone in UTC format.
