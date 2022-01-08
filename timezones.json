@@ -1,0 +1,8212 @@
+[
+  {
+    "city": "Aalborg",
+    "location": "Europe/Copenhagen",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Aasiaat",
+    "location": "America/Godthab",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Abakan",
+    "location": "Asia/Krasnoyarsk",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Abepura",
+    "location": "Asia/Jayapura",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Abidjan",
+    "location": "Africa/Abidjan",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Abobo",
+    "location": "Africa/Abidjan",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Abomey-Calavi",
+    "location": "Africa/Porto-Novo",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Abu Dhabi",
+    "location": "Asia/Dubai",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Abéché",
+    "location": "Africa/Ndjamena",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Accra",
+    "location": "Africa/Accra",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Achinsk",
+    "location": "Asia/Krasnoyarsk",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Aconibe",
+    "location": "Africa/Malabo",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Adamstown",
+    "location": "Pacific/Pitcairn",
+    "utc": "UTC-8"
+  },
+  {
+    "city": "Adana",
+    "location": "Europe/Istanbul",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Addis Ababa",
+    "location": "Africa/Addis Ababa",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Adelaide",
+    "location": "Australia/Adelaide",
+    "utc": "UTC+9:30"
+  },
+  {
+    "city": "Adelaide Hills",
+    "location": "Australia/Adelaide",
+    "utc": "UTC+9:30"
+  },
+  {
+    "city": "Aden",
+    "location": "Asia/Aden",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Afega",
+    "location": "Pacific/Apia",
+    "utc": "UTC+13"
+  },
+  {
+    "city": "Agadez",
+    "location": "Africa/Niamey",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Aginskoye",
+    "location": "Asia/Chita",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Aguilares",
+    "location": "America/Argentina/Tucuman",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Aileu",
+    "location": "Asia/Dili",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Ajman City",
+    "location": "Asia/Dubai",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Akademgorodok",
+    "location": "Asia/Novosibirsk",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Akhtubinsk",
+    "location": "Europe/Astrakhan",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Aktobe",
+    "location": "Asia/Aqtobe",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Akureyri",
+    "location": "Atlantic/Reykjavik",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Al Aḩmadī",
+    "location": "Asia/Kuwait",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Al Başrah al Qadīmah",
+    "location": "Asia/Baghdad",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Al Farwānīyah",
+    "location": "Asia/Kuwait",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Al Khawr",
+    "location": "Asia/Qatar",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Al Khums",
+    "location": "Africa/Tripoli",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Al Mawşil al Jadīdah",
+    "location": "Asia/Baghdad",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Al Muharraq",
+    "location": "Asia/Bahrain",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Al Wakrah",
+    "location": "Asia/Qatar",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Al Ḩudaydah",
+    "location": "Asia/Aden",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Alaghsas",
+    "location": "Africa/Niamey",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Alajuela",
+    "location": "America/Costa Rica",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Albany",
+    "location": "Australia/Perth",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Albuquerque",
+    "location": "America/Denver",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Alchevsk",
+    "location": "Europe/Zaporozhye",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Alderetes",
+    "location": "America/Argentina/Tucuman",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Alenquer",
+    "location": "America/Santarem",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Aleppo",
+    "location": "Asia/Damascus",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Alexandria",
+    "location": "Africa/Cairo",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Algiers",
+    "location": "Africa/Algiers",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Ali Sabieh",
+    "location": "Africa/Djibouti",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Alice Springs",
+    "location": "Australia/Darwin",
+    "utc": "UTC+9:30"
+  },
+  {
+    "city": "Almaty",
+    "location": "Asia/Almaty",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Alo",
+    "location": "Pacific/Wallis",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Alofi",
+    "location": "Pacific/Niue",
+    "utc": "UTC-11"
+  },
+  {
+    "city": "Altai",
+    "location": "Asia/Hovd",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Altamira",
+    "location": "America/Santarem",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Amadora",
+    "location": "Europe/Lisbon",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Ambon",
+    "location": "Asia/Jayapura",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Amman",
+    "location": "Asia/Amman",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Amsterdam",
+    "location": "Europe/Amsterdam",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Anabar",
+    "location": "Pacific/Nauru",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Anadyr",
+    "location": "Asia/Anadyr",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Ananindeua",
+    "location": "America/Belem",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Anchorage",
+    "location": "America/Anchorage",
+    "utc": "UTC-9"
+  },
+  {
+    "city": "Andijon",
+    "location": "Asia/Tashkent",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Andorra la Vella",
+    "location": "Europe/Andorra",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Angarsk",
+    "location": "Asia/Irkutsk",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Angra do Heroísmo",
+    "location": "Atlantic/Azores",
+    "utc": "UTC-1"
+  },
+  {
+    "city": "Ankara",
+    "location": "Europe/Istanbul",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Ann Arbor",
+    "location": "America/Detroit",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Anna Regina",
+    "location": "America/Guyana",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Anse Boileau",
+    "location": "Indian/Mahe",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Antananarivo",
+    "location": "Indian/Antananarivo",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Antofagasta",
+    "location": "America/Santiago",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Antsirabe",
+    "location": "Indian/Antananarivo",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Antwerpen",
+    "location": "Europe/Brussels",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Apia",
+    "location": "Pacific/Apia",
+    "utc": "UTC+13"
+  },
+  {
+    "city": "Aqsay",
+    "location": "Asia/Oral",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Ar Rayyān",
+    "location": "Asia/Qatar",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Ar Rifā‘",
+    "location": "Asia/Bahrain",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Aracaju",
+    "location": "America/Maceio",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Araguaína",
+    "location": "America/Araguaina",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Aral",
+    "location": "Asia/Qyzylorda",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Arapiraca",
+    "location": "America/Maceio",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Arauco",
+    "location": "America/Argentina/La Rioja",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Arawa",
+    "location": "Pacific/Bougainville",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Arequipa",
+    "location": "America/Lima",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Ariquemes",
+    "location": "America/Porto Velho",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Arkalyk",
+    "location": "Asia/Qostanay",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Arno",
+    "location": "Pacific/Majuro",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Arona",
+    "location": "Atlantic/Canary",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Arraiján",
+    "location": "America/Panama",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Arusha",
+    "location": "Africa/Dar es_Salaam",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "As Sālimīyah",
+    "location": "Asia/Kuwait",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Asau",
+    "location": "Pacific/Apia",
+    "utc": "UTC+13"
+  },
+  {
+    "city": "Asau Village",
+    "location": "Pacific/Funafuti",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Ashdod",
+    "location": "Asia/Jerusalem",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Ashgabat",
+    "location": "Asia/Ashgabat",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Asino",
+    "location": "Asia/Tomsk",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Asmara",
+    "location": "Africa/Asmara",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Assab",
+    "location": "Africa/Asmara",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Astrakhan",
+    "location": "Europe/Astrakhan",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Asunción",
+    "location": "America/Asuncion",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Atafu Village",
+    "location": "Pacific/Fakaofo",
+    "utc": "UTC+13"
+  },
+  {
+    "city": "Atakpamé",
+    "location": "Africa/Lome",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Athens",
+    "location": "Europe/Athens",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Atsiaman",
+    "location": "Africa/Accra",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Atyrau",
+    "location": "Asia/Atyrau",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Auckland",
+    "location": "Pacific/Auckland",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Auki",
+    "location": "Pacific/Guadalcanal",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Aurora",
+    "location": "America/Denver",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Austin",
+    "location": "America/Chicago",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Avarua",
+    "location": "Pacific/Rarotonga",
+    "utc": "UTC-10"
+  },
+  {
+    "city": "Añisoc",
+    "location": "Africa/Malabo",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Ba",
+    "location": "Pacific/Fiji",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Badger",
+    "location": "America/Anchorage",
+    "utc": "UTC-9"
+  },
+  {
+    "city": "Bafatá",
+    "location": "Africa/Bissau",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Baghdad",
+    "location": "Asia/Baghdad",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Bahir Dar",
+    "location": "Africa/Addis Ababa",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Bahía Blanca",
+    "location": "America/Argentina/Buenos Aires",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Baie-Mahault",
+    "location": "America/Guadeloupe",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Baikonur",
+    "location": "Asia/Qyzylorda",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Baiti",
+    "location": "Pacific/Nauru",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Bakau",
+    "location": "Africa/Banjul",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Baku",
+    "location": "Asia/Baku",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Balakovo",
+    "location": "Europe/Saratov",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Balashov",
+    "location": "Europe/Saratov",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Balkanabat",
+    "location": "Asia/Ashgabat",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Ballarat",
+    "location": "Australia/Melbourne",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Baltiysk",
+    "location": "Europe/Kaliningrad",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Balykshi",
+    "location": "Asia/Atyrau",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Balzers",
+    "location": "Europe/Vaduz",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Bamako",
+    "location": "Africa/Bamako",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Bamenda",
+    "location": "Africa/Douala",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Bandar Seri Begawan",
+    "location": "Asia/Brunei",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Bandung",
+    "location": "Asia/Jakarta",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Banfora",
+    "location": "Africa/Ouagadougou",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Bangar",
+    "location": "Asia/Brunei",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Bangkok",
+    "location": "Asia/Bangkok",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Bangui",
+    "location": "Africa/Bangui",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Banja Luka",
+    "location": "Europe/Sarajevo",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Banjarmasin",
+    "location": "Asia/Makassar",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Banjul",
+    "location": "Africa/Banjul",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Banqiao",
+    "location": "Asia/Taipei",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Barcelona",
+    "location": "Europe/Madrid",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Barnaul",
+    "location": "Asia/Barnaul",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Barquisimeto",
+    "location": "America/Caracas",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Barra do Garças",
+    "location": "America/Cuiaba",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Barranquilla",
+    "location": "America/Bogota",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Barrouallie",
+    "location": "America/St Vincent",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Bartica",
+    "location": "America/Guyana",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Baruun-Urt",
+    "location": "Asia/Choibalsan",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Barysh",
+    "location": "Europe/Ulyanovsk",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Basel",
+    "location": "Europe/Zurich",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Basrah",
+    "location": "Asia/Baghdad",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Basseterre",
+    "location": "America/St Kitts",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Bata",
+    "location": "Africa/Malabo",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Bathsheba",
+    "location": "America/Barbados",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Battambang",
+    "location": "Asia/Phnom Penh",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Battir",
+    "location": "Asia/Hebron",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Batumi",
+    "location": "Asia/Tbilisi",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Bawshar",
+    "location": "Asia/Muscat",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Bay Roberts",
+    "location": "America/St Johns",
+    "utc": "UTC-3:30"
+  },
+  {
+    "city": "Bayamón",
+    "location": "America/Puerto Rico",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Beau Bassin-Rose Hill",
+    "location": "Indian/Mauritius",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Beau Vallon",
+    "location": "Indian/Mahe",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Beijing",
+    "location": "Asia/Shanghai",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Beira",
+    "location": "Africa/Maputo",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Beirut",
+    "location": "Asia/Beirut",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Bekasi",
+    "location": "Asia/Jakarta",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Bel Ombre",
+    "location": "Indian/Mahe",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Belgrade",
+    "location": "Europe/Belgrade",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Belize City",
+    "location": "America/Belize",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Belmopan",
+    "location": "America/Belize",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Belo Horizonte",
+    "location": "America/Sao Paulo",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Belogorsk",
+    "location": "Asia/Yakutsk",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Belém",
+    "location": "America/Belem",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Bender",
+    "location": "Europe/Chisinau",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Bendigo",
+    "location": "Australia/Melbourne",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Bengaluru",
+    "location": "Asia/Kolkata",
+    "utc": "UTC+5:30"
+  },
+  {
+    "city": "Benghazi",
+    "location": "Africa/Tripoli",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Benguela",
+    "location": "Africa/Luanda",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Benjamin Constant",
+    "location": "America/Eirunepe",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Bensonville",
+    "location": "Africa/Monrovia",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Berbera",
+    "location": "Africa/Mogadishu",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Berbérati",
+    "location": "Africa/Bangui",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Berdsk",
+    "location": "Asia/Novosibirsk",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Berehove",
+    "location": "Europe/Uzhgorod",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Berekua",
+    "location": "America/Dominica",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Bergen",
+    "location": "Europe/Oslo",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Berlin",
+    "location": "Europe/Berlin",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Bern",
+    "location": "Europe/Zurich",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Betio Village",
+    "location": "Pacific/Tarawa",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Bettembourg",
+    "location": "Europe/Luxembourg",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Beyneu",
+    "location": "Asia/Aqtau",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Big Bend",
+    "location": "Africa/Mbabane",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Bikenibeu Village",
+    "location": "Pacific/Tarawa",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Bilibino",
+    "location": "Asia/Anadyr",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Bimbo",
+    "location": "Africa/Bangui",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Biratnagar",
+    "location": "Asia/Kathmandu",
+    "utc": "UTC+5:45"
+  },
+  {
+    "city": "Birgañj",
+    "location": "Asia/Kathmandu",
+    "utc": "UTC+5:45"
+  },
+  {
+    "city": "Birkirkara",
+    "location": "Europe/Malta",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Birmingham",
+    "location": "Europe/London",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Bisee",
+    "location": "America/St Lucia",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Bishkek",
+    "location": "Asia/Bishkek",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Bissau",
+    "location": "Africa/Bissau",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Bissorã",
+    "location": "Africa/Bissau",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Bitola",
+    "location": "Europe/Skopje",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Biysk",
+    "location": "Asia/Barnaul",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Bizerte",
+    "location": "Africa/Tunis",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Biên Hòa",
+    "location": "Asia/Ho Chi_Minh",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Blagoveshchensk",
+    "location": "Asia/Yakutsk",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Blantyre",
+    "location": "Africa/Blantyre",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Bloomington",
+    "location": "America/Indiana/Indianapolis",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Blowing Point Village",
+    "location": "America/Anguilla",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Bo",
+    "location": "Africa/Freetown",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Boa Vista",
+    "location": "America/Boa Vista",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Bobo-Dioulasso",
+    "location": "Africa/Ouagadougou",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Bodden Town",
+    "location": "America/Cayman",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Bogotá",
+    "location": "America/Bogota",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Boise",
+    "location": "America/Boise",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Bokhtar",
+    "location": "Asia/Dushanbe",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Bolama",
+    "location": "Africa/Bissau",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Bolands",
+    "location": "America/Antigua",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Borgo Maggiore",
+    "location": "Europe/San Marino",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Borzya",
+    "location": "Asia/Chita",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Bouaké",
+    "location": "Africa/Abidjan",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Boumerdas",
+    "location": "Africa/Algiers",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Brades",
+    "location": "America/Montserrat",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Braga",
+    "location": "Europe/Lisbon",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Brandon",
+    "location": "America/Winnipeg",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Brasília",
+    "location": "America/Sao Paulo",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Bratislava",
+    "location": "Europe/Bratislava",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Bratsk",
+    "location": "Asia/Irkutsk",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Brazzaville",
+    "location": "Africa/Brazzaville",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Bridgetown",
+    "location": "America/Barbados",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Brikama",
+    "location": "Africa/Banjul",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Brisbane",
+    "location": "Australia/Brisbane",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Bristol",
+    "location": "Europe/London",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Brno",
+    "location": "Europe/Prague",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Broken Hill",
+    "location": "Australia/Broken Hill",
+    "utc": "UTC+9:30"
+  },
+  {
+    "city": "Brokopondo",
+    "location": "America/Paramaribo",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Brooklyn",
+    "location": "America/New York",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Brussels",
+    "location": "Europe/Brussels",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Buala",
+    "location": "Pacific/Guadalcanal",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Bucerías",
+    "location": "America/Bahia Banderas",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Bucharest",
+    "location": "Europe/Bucharest",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Budapest",
+    "location": "Europe/Budapest",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Budta",
+    "location": "Asia/Manila",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Budva",
+    "location": "Europe/Podgorica",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Buenos Aires",
+    "location": "America/Argentina/Buenos Aires",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Bujumbura",
+    "location": "Africa/Bujumbura",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Buka",
+    "location": "Pacific/Bougainville",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Bukhara",
+    "location": "Asia/Samarkand",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Bulawayo",
+    "location": "Africa/Harare",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Bunbury",
+    "location": "Australia/Perth",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Burgas",
+    "location": "Europe/Sofia",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Burnaby",
+    "location": "America/Vancouver",
+    "utc": "UTC-8"
+  },
+  {
+    "city": "Burnie",
+    "location": "Australia/Hobart",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Bursa",
+    "location": "Europe/Istanbul",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Busan",
+    "location": "Asia/Seoul",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Butare",
+    "location": "Africa/Kigali",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Bălţi",
+    "location": "Europe/Chisinau",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Cacoal",
+    "location": "America/Porto Velho",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Caguas",
+    "location": "America/Puerto Rico",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Cairns",
+    "location": "Australia/Brisbane",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Cairo",
+    "location": "Africa/Cairo",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Caleta Olivia",
+    "location": "America/Argentina/Rio Gallegos",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Calgary",
+    "location": "America/Edmonton",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Cali",
+    "location": "America/Bogota",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Callao",
+    "location": "America/Lima",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Caloocan City",
+    "location": "Asia/Manila",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Camagüey",
+    "location": "America/Havana",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Camayenne",
+    "location": "Africa/Conakry",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Camaçari",
+    "location": "America/Bahia",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Campeche",
+    "location": "America/Merida",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Campo Grande",
+    "location": "America/Campo Grande",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Canberra",
+    "location": "Australia/Sydney",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Cancún",
+    "location": "America/Cancun",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Caniço",
+    "location": "Atlantic/Madeira",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Cape Town",
+    "location": "Africa/Johannesburg",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Capiatá",
+    "location": "America/Asuncion",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Caracas",
+    "location": "America/Caracas",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Carmel",
+    "location": "America/Indiana/Indianapolis",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Carolina",
+    "location": "America/Puerto Rico",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Carrefour",
+    "location": "America/Port-au-Prince",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Cartagena",
+    "location": "America/Bogota",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Casablanca",
+    "location": "Africa/Casablanca",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Cascade",
+    "location": "Indian/Mahe",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Castletown",
+    "location": "Europe/Isle of_Man",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Castries",
+    "location": "America/St Lucia",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Caucete",
+    "location": "America/Argentina/San Juan",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Cayenne",
+    "location": "America/Cayenne",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Celje",
+    "location": "Europe/Ljubljana",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Ceuta",
+    "location": "Africa/Ceuta",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Chaguanas",
+    "location": "America/Port of_Spain",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Chamical",
+    "location": "America/Argentina/La Rioja",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Chandler",
+    "location": "America/Phoenix",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Charleroi",
+    "location": "Europe/Brussels",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Charlotte Amalie",
+    "location": "America/St Thomas",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Charlottetown",
+    "location": "America/Halifax",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Chattogram",
+    "location": "Asia/Dhaka",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Chelyabinsk",
+    "location": "Asia/Yekaterinburg",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Chennai",
+    "location": "Asia/Kolkata",
+    "utc": "UTC+5:30"
+  },
+  {
+    "city": "Chernyakhovsk",
+    "location": "Europe/Kaliningrad",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Chetumal",
+    "location": "America/Cancun",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Chicago",
+    "location": "America/Chicago",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Chiclayo",
+    "location": "America/Lima",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Chihuahua",
+    "location": "America/Chihuahua",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Chiili",
+    "location": "Asia/Qyzylorda",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Chilecito",
+    "location": "America/Argentina/La Rioja",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Chimbas",
+    "location": "America/Argentina/San Juan",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Chimoio",
+    "location": "Africa/Maputo",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Chinandega",
+    "location": "America/Managua",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Chingola",
+    "location": "Africa/Lusaka",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Chirchiq",
+    "location": "Asia/Tashkent",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Chisinau",
+    "location": "Europe/Chisinau",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Chita",
+    "location": "Asia/Chita",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Chitungwiza",
+    "location": "Africa/Harare",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Choibalsan",
+    "location": "Asia/Choibalsan",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Choloma",
+    "location": "America/Tegucigalpa",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Christchurch",
+    "location": "Pacific/Auckland",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Cipolletti",
+    "location": "America/Argentina/Salta",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "City of Balikpapan",
+    "location": "Asia/Makassar",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Ciudad Acuña",
+    "location": "America/Matamoros",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Ciudad Delicias",
+    "location": "America/Chihuahua",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Ciudad Juárez",
+    "location": "America/Ojinaga",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Ciudad Obregón",
+    "location": "America/Hermosillo",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Ciudad del Carmen",
+    "location": "America/Merida",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Ciudad del Este",
+    "location": "America/Asuncion",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Coari",
+    "location": "America/Manaus",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Cochabamba",
+    "location": "America/La Paz",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Cockburn Town",
+    "location": "America/Grand Turk",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Codrington",
+    "location": "America/Antigua",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Colombo",
+    "location": "Asia/Colombo",
+    "utc": "UTC+5:30"
+  },
+  {
+    "city": "Colonia",
+    "location": "Pacific/Chuuk",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Colorado Springs",
+    "location": "America/Denver",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Comilla",
+    "location": "Asia/Dhaka",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Comodoro Rivadavia",
+    "location": "America/Argentina/Rio Gallegos",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Conakry",
+    "location": "Africa/Conakry",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Conception Bay South",
+    "location": "America/St Johns",
+    "utc": "UTC-3:30"
+  },
+  {
+    "city": "Constantine",
+    "location": "Africa/Algiers",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Cooper’s Town",
+    "location": "America/Nassau",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Copenhagen",
+    "location": "Europe/Copenhagen",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Cork",
+    "location": "Europe/Dublin",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Corner Brook",
+    "location": "America/St Johns",
+    "utc": "UTC-3:30"
+  },
+  {
+    "city": "Corumbá",
+    "location": "America/Campo Grande",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Cotonou",
+    "location": "Africa/Porto-Novo",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Cova Figueira",
+    "location": "Atlantic/Cape Verde",
+    "utc": "UTC-1"
+  },
+  {
+    "city": "Cozumel",
+    "location": "America/Cancun",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Cruz Bay",
+    "location": "America/St Thomas",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Cruzeiro do Sul",
+    "location": "America/Rio Branco",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Cuauhtémoc",
+    "location": "America/Chihuahua",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Cuenca",
+    "location": "America/Guayaquil",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Cuiabá",
+    "location": "America/Cuiaba",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Cul de Sac",
+    "location": "America/Lower Princes",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Culiacán",
+    "location": "America/Mazatlan",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Curepipe",
+    "location": "Indian/Mauritius",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Curitiba",
+    "location": "America/Sao Paulo",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Câmara de Lobos",
+    "location": "Atlantic/Madeira",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Córdoba",
+    "location": "America/Argentina/Cordoba",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Cần Thơ",
+    "location": "Asia/Ho Chi_Minh",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Da Nang",
+    "location": "Asia/Ho Chi_Minh",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Daegu",
+    "location": "Asia/Seoul",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Daejeon",
+    "location": "Asia/Seoul",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Dakar",
+    "location": "Africa/Dakar",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Dakhla",
+    "location": "Africa/El Aaiun",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Dallas",
+    "location": "America/Chicago",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Daloa",
+    "location": "Africa/Abidjan",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Damascus",
+    "location": "Asia/Damascus",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Dangriga",
+    "location": "America/Belize",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Dar es Salaam",
+    "location": "Africa/Dar es_Salaam",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Darhan",
+    "location": "Asia/Ulaanbaatar",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Dartmouth",
+    "location": "America/Halifax",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Darwin",
+    "location": "Australia/Darwin",
+    "utc": "UTC+9:30"
+  },
+  {
+    "city": "Daugavpils",
+    "location": "Europe/Riga",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Davao",
+    "location": "Asia/Manila",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "David",
+    "location": "America/Panama",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Dawson Creek",
+    "location": "America/Dawson Creek",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Dayr al Balaḩ",
+    "location": "Asia/Gaza",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Daşoguz",
+    "location": "Asia/Ashgabat",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Debrecen",
+    "location": "Europe/Budapest",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Dededo Village",
+    "location": "Pacific/Guam",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Dehiwala-Mount Lavinia",
+    "location": "Asia/Colombo",
+    "utc": "UTC+5:30"
+  },
+  {
+    "city": "Delhi",
+    "location": "Asia/Kolkata",
+    "utc": "UTC+5:30"
+  },
+  {
+    "city": "Delmas 73",
+    "location": "America/Port-au-Prince",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Dembeni",
+    "location": "Indian/Mayotte",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Denpasar",
+    "location": "Asia/Makassar",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Denver",
+    "location": "America/Denver",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Detroit",
+    "location": "America/Detroit",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Devonport",
+    "location": "Australia/Hobart",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Dhaka",
+    "location": "Asia/Dhaka",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Dieppe",
+    "location": "America/Moncton",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Dikhil",
+    "location": "Africa/Djibouti",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Dili",
+    "location": "Asia/Dili",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Dimitrovgrad",
+    "location": "Europe/Ulyanovsk",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Dire Dawa",
+    "location": "Africa/Addis Ababa",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Djibouti",
+    "location": "Africa/Djibouti",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Djougou",
+    "location": "Africa/Porto-Novo",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Dnipro",
+    "location": "Europe/Kiev",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Doha",
+    "location": "Asia/Qatar",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Dolisie",
+    "location": "Africa/Brazzaville",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Domagnano",
+    "location": "Europe/San Marino",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Domoni",
+    "location": "Indian/Comoro",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Donaustadt",
+    "location": "Europe/Vienna",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Donetsk",
+    "location": "Europe/Kiev",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Douala",
+    "location": "Africa/Douala",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Douglas",
+    "location": "Europe/Isle of_Man",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Dourados",
+    "location": "America/Campo Grande",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Drammen",
+    "location": "Europe/Oslo",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Dubai",
+    "location": "Asia/Dubai",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Dublin",
+    "location": "Europe/Dublin",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Dudelange",
+    "location": "Europe/Luxembourg",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Dumbéa",
+    "location": "Pacific/Noumea",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Durban",
+    "location": "Africa/Johannesburg",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Durrës",
+    "location": "Europe/Tirane",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Dushanbe",
+    "location": "Asia/Dushanbe",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Dzaoudzi",
+    "location": "Indian/Mayotte",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Dzhetygara",
+    "location": "Asia/Qostanay",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Dār Kulayb",
+    "location": "Asia/Bahrain",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Eagle River",
+    "location": "America/Anchorage",
+    "utc": "UTC-9"
+  },
+  {
+    "city": "East End",
+    "location": "America/Cayman",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "East Honolulu",
+    "location": "Pacific/Honolulu",
+    "utc": "UTC-10"
+  },
+  {
+    "city": "East Jerusalem",
+    "location": "Asia/Hebron",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Ebaye",
+    "location": "Pacific/Kwajalein",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Ebebiyin",
+    "location": "Africa/Malabo",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Ecatepec de Morelos",
+    "location": "America/Mexico City",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Edinburgh of the Seven Seas",
+    "location": "Atlantic/St Helena",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Edmonton",
+    "location": "America/Edmonton",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Eindhoven",
+    "location": "Europe/Amsterdam",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Eirunepé",
+    "location": "America/Eirunepe",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "El Paso",
+    "location": "America/Denver",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "El Progreso",
+    "location": "America/Tegucigalpa",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Elbasan",
+    "location": "Europe/Tirane",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Eldoret",
+    "location": "Africa/Nairobi",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Embi",
+    "location": "Asia/Aqtobe",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Encamp",
+    "location": "Europe/Andorra",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Engel’s",
+    "location": "Europe/Saratov",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Ensenada",
+    "location": "America/Tijuana",
+    "utc": "UTC-8"
+  },
+  {
+    "city": "Envira",
+    "location": "America/Eirunepe",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Erdenet",
+    "location": "Asia/Ulaanbaatar",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Esch-sur-Alzette",
+    "location": "Europe/Luxembourg",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Eschen",
+    "location": "Europe/Vaduz",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Espoo",
+    "location": "Europe/Helsinki",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Esquel",
+    "location": "America/Argentina/Catamarca",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Faaa",
+    "location": "Pacific/Tahiti",
+    "utc": "UTC-10"
+  },
+  {
+    "city": "Fairbanks",
+    "location": "America/Anchorage",
+    "utc": "UTC-9"
+  },
+  {
+    "city": "Faisalabad",
+    "location": "Asia/Karachi",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Fale old settlement",
+    "location": "Pacific/Fakaofo",
+    "utc": "UTC+13"
+  },
+  {
+    "city": "Famagusta",
+    "location": "Asia/Famagusta",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Farafenni",
+    "location": "Africa/Banjul",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Favoriten",
+    "location": "Europe/Vienna",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Feijó",
+    "location": "America/Rio Branco",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Feira de Santana",
+    "location": "America/Bahia",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Felipe Carrillo Puerto",
+    "location": "America/Cancun",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Feodosiya",
+    "location": "Europe/Simferopol",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Fianarantsoa",
+    "location": "Indian/Antananarivo",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Fig Tree",
+    "location": "America/St Kitts",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Fiorentino",
+    "location": "Europe/San Marino",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Flying Fish Cove",
+    "location": "Indian/Christmas",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Fomboni",
+    "location": "Indian/Comoro",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Fort McMurray",
+    "location": "America/Edmonton",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Fort St. John",
+    "location": "America/Dawson Creek",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Fort Wayne",
+    "location": "America/Indiana/Indianapolis",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Fort-de-France",
+    "location": "America/Martinique",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Fortaleza",
+    "location": "America/Fortaleza",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Franceville",
+    "location": "Africa/Libreville",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Francistown",
+    "location": "Africa/Gaborone",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Frankfurt am Main",
+    "location": "Europe/Berlin",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Fredericton",
+    "location": "America/Moncton",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Frederiksberg",
+    "location": "Europe/Copenhagen",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Freeport",
+    "location": "America/Nassau",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Freetown",
+    "location": "Africa/Freetown",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Fuglafjørður",
+    "location": "Atlantic/Faroe",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Funafuti",
+    "location": "Pacific/Funafuti",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Funchal",
+    "location": "Atlantic/Madeira",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Fuvahmulah",
+    "location": "Indian/Maldives",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Fès",
+    "location": "Africa/Casablanca",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Gaborone",
+    "location": "Africa/Gaborone",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Gabú",
+    "location": "Africa/Bissau",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Gaillimh",
+    "location": "Europe/Dublin",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Ganja",
+    "location": "Asia/Baku",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Garoua",
+    "location": "Africa/Douala",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Garðabær",
+    "location": "Atlantic/Reykjavik",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Gawler",
+    "location": "Australia/Adelaide",
+    "utc": "UTC+9:30"
+  },
+  {
+    "city": "Gaza",
+    "location": "Asia/Gaza",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Gbarnga",
+    "location": "Africa/Monrovia",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Geelong",
+    "location": "Australia/Melbourne",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Gent",
+    "location": "Europe/Brussels",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Genève",
+    "location": "Europe/Zurich",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "George Town",
+    "location": "America/Cayman",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Georgetown",
+    "location": "America/Guyana",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Georgetown",
+    "location": "America/St Vincent",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Georgetown",
+    "location": "Atlantic/St Helena",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Gibraltar",
+    "location": "Europe/Gibraltar",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Gilbert",
+    "location": "America/Phoenix",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Gisenyi",
+    "location": "Africa/Kigali",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Gitarama",
+    "location": "Africa/Kigali",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Gitega",
+    "location": "Africa/Bujumbura",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Giza",
+    "location": "Africa/Cairo",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Gizo",
+    "location": "Pacific/Guadalcanal",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Glace Bay",
+    "location": "America/Glace Bay",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Gold Coast",
+    "location": "Australia/Brisbane",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Gorno-Altaysk",
+    "location": "Asia/Barnaul",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Gouyave",
+    "location": "America/Grenada",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Grand Rapids",
+    "location": "America/Detroit",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Graz",
+    "location": "Europe/Vienna",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Grenville",
+    "location": "America/Grenada",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Grytviken",
+    "location": "Atlantic/South Georgia",
+    "utc": "UTC-2"
+  },
+  {
+    "city": "Guadalajara",
+    "location": "America/Mexico City",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Guadalupe",
+    "location": "America/Monterrey",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Guangzhou",
+    "location": "Asia/Shanghai",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Guantánamo",
+    "location": "America/Havana",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Guatemala City",
+    "location": "America/Guatemala",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Guayaquil",
+    "location": "America/Guayaquil",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Gulu",
+    "location": "Africa/Kampala",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Gurupi",
+    "location": "America/Araguaina",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Gusev",
+    "location": "Europe/Kaliningrad",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Gustavia",
+    "location": "America/St Barthelemy",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Gweru",
+    "location": "Africa/Harare",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Gyumri",
+    "location": "Asia/Yerevan",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Göteborg",
+    "location": "Europe/Stockholm",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Hafnarfjörður",
+    "location": "Atlantic/Reykjavik",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Haifa",
+    "location": "Asia/Jerusalem",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Haiphong",
+    "location": "Asia/Bangkok",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Halifax",
+    "location": "America/Halifax",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Hamburg",
+    "location": "Europe/Berlin",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Hamhŭng",
+    "location": "Asia/Pyongyang",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Hamilton",
+    "location": "Atlantic/Bermuda",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Hanoi",
+    "location": "Asia/Bangkok",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Happy Valley-Goose Bay",
+    "location": "America/Goose Bay",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Harare",
+    "location": "Africa/Harare",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Hargeysa",
+    "location": "Africa/Mogadishu",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Harper",
+    "location": "Africa/Monrovia",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Havana",
+    "location": "America/Havana",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Hebron",
+    "location": "Asia/Hebron",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Helsinki",
+    "location": "Europe/Helsinki",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Herceg Novi",
+    "location": "Europe/Podgorica",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Hermosillo",
+    "location": "America/Hermosillo",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Heroica Matamoros",
+    "location": "America/Matamoros",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Herāt",
+    "location": "Asia/Kabul",
+    "utc": "UTC+4:30"
+  },
+  {
+    "city": "Hilo",
+    "location": "Pacific/Honolulu",
+    "utc": "UTC-10"
+  },
+  {
+    "city": "Hithadhoo",
+    "location": "Indian/Maldives",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Ho Chi Minh City",
+    "location": "Asia/Ho Chi_Minh",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Hobart",
+    "location": "Australia/Hobart",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Holetown",
+    "location": "America/Barbados",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Holguín",
+    "location": "America/Havana",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Homs",
+    "location": "Asia/Damascus",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Homyel",
+    "location": "Europe/Minsk",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Hong Kong",
+    "location": "Asia/Hong Kong",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Honiara",
+    "location": "Pacific/Guadalcanal",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Honolulu",
+    "location": "Pacific/Honolulu",
+    "utc": "UTC-10"
+  },
+  {
+    "city": "Houston",
+    "location": "America/Chicago",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Hovd",
+    "location": "Asia/Ulaanbaatar",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Howard Springs",
+    "location": "Australia/Darwin",
+    "utc": "UTC+9:30"
+  },
+  {
+    "city": "Hrazdan",
+    "location": "Asia/Yerevan",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Hrodna",
+    "location": "Europe/Minsk",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Huambo",
+    "location": "Africa/Luanda",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Huntingburg",
+    "location": "America/Indiana/Vincennes",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Huocheng",
+    "location": "Asia/Urumqi",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Hŭngnam",
+    "location": "Asia/Pyongyang",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Iaşi",
+    "location": "Europe/Bucharest",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Ibadan",
+    "location": "Africa/Lagos",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Idaho Falls",
+    "location": "America/Boise",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Ijuw",
+    "location": "Pacific/Nauru",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Ilulissat",
+    "location": "America/Godthab",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Incheon",
+    "location": "Asia/Seoul",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Indianapolis",
+    "location": "America/Indiana/Indianapolis",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Inza",
+    "location": "Europe/Ulyanovsk",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Iqaluit",
+    "location": "America/Iqaluit",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Irbid",
+    "location": "Asia/Amman",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Irkutsk",
+    "location": "Asia/Irkutsk",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Iron Mountain",
+    "location": "America/Menominee",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Iron River",
+    "location": "America/Menominee",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Ironwood",
+    "location": "America/Menominee",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Isangel",
+    "location": "Pacific/Efate",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Isfahan",
+    "location": "Asia/Tehran",
+    "utc": "UTC+3:30"
+  },
+  {
+    "city": "Iskitim",
+    "location": "Asia/Novosibirsk",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Istanbul",
+    "location": "Europe/Istanbul",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Istaravshan",
+    "location": "Asia/Dushanbe",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Itabuna",
+    "location": "America/Bahia",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Itacoatiara",
+    "location": "America/Manaus",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Itaituba",
+    "location": "America/Santarem",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Itamaracá",
+    "location": "America/Noronha",
+    "utc": "UTC-2"
+  },
+  {
+    "city": "Izhevsk",
+    "location": "Europe/Samara",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Iztapalapa",
+    "location": "America/Mexico City",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Jabat",
+    "location": "Pacific/Kwajalein",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Jaboatão",
+    "location": "America/Recife",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Jaboatão dos Guararapes",
+    "location": "America/Recife",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Jabor",
+    "location": "Pacific/Majuro",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Jabālyā",
+    "location": "Asia/Gaza",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Jaffna",
+    "location": "Asia/Colombo",
+    "utc": "UTC+5:30"
+  },
+  {
+    "city": "Jakarta",
+    "location": "Asia/Jakarta",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Jalal-Abad",
+    "location": "Asia/Bishkek",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Jalālābād",
+    "location": "Asia/Kabul",
+    "utc": "UTC+4:30"
+  },
+  {
+    "city": "Jamestown",
+    "location": "Atlantic/St Helena",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Jasper",
+    "location": "America/Indiana/Vincennes",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Jayapura",
+    "location": "Asia/Jayapura",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Jeddah",
+    "location": "Asia/Riyadh",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Jeffersontown",
+    "location": "America/Kentucky/Louisville",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Jeffersonville",
+    "location": "America/Kentucky/Louisville",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Jelgava",
+    "location": "Europe/Riga",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Jerusalem",
+    "location": "Asia/Jerusalem",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Ji Paraná",
+    "location": "America/Porto Velho",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Jinja",
+    "location": "Africa/Kampala",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Jizzax",
+    "location": "Asia/Samarkand",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Johannesburg",
+    "location": "Africa/Johannesburg",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Johor Bahru",
+    "location": "Asia/Kuala Lumpur",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "João Pessoa",
+    "location": "America/Fortaleza",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Juan Díaz",
+    "location": "America/Panama",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Juba",
+    "location": "Africa/Juba",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Juneau",
+    "location": "America/Juneau",
+    "utc": "UTC-9"
+  },
+  {
+    "city": "Justo Daract",
+    "location": "America/Argentina/San Luis",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Jūrmala",
+    "location": "Europe/Riga",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Kabul",
+    "location": "Asia/Kabul",
+    "utc": "UTC+4:30"
+  },
+  {
+    "city": "Kabwe",
+    "location": "Africa/Lusaka",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Kaduna",
+    "location": "Africa/Lagos",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Kaga Bandoro",
+    "location": "Africa/Bangui",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Kailua",
+    "location": "Pacific/Honolulu",
+    "utc": "UTC-10"
+  },
+  {
+    "city": "Kairouan",
+    "location": "Africa/Tunis",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Kakata",
+    "location": "Africa/Monrovia",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Kalachinsk",
+    "location": "Asia/Omsk",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Kaliningrad",
+    "location": "Europe/Kaliningrad",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Kampala",
+    "location": "Africa/Kampala",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Kampung Baru Subang",
+    "location": "Asia/Kuala Lumpur",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Kamyshin",
+    "location": "Europe/Volgograd",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Kamyzyak",
+    "location": "Europe/Astrakhan",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Kananga",
+    "location": "Africa/Lubumbashi",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Kanasín",
+    "location": "America/Merida",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Kandahār",
+    "location": "Asia/Kabul",
+    "utc": "UTC+4:30"
+  },
+  {
+    "city": "Kandyagash",
+    "location": "Asia/Aqtobe",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Kankan",
+    "location": "Africa/Conakry",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Kano",
+    "location": "Africa/Lagos",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Kaohsiung",
+    "location": "Asia/Taipei",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Kara",
+    "location": "Africa/Lome",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Karachi",
+    "location": "Asia/Karachi",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Karagandy",
+    "location": "Asia/Almaty",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Karaj",
+    "location": "Asia/Tehran",
+    "utc": "UTC+3:30"
+  },
+  {
+    "city": "Karakol",
+    "location": "Asia/Bishkek",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Kassala",
+    "location": "Africa/Khartoum",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Kasungu",
+    "location": "Africa/Blantyre",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Kathmandu",
+    "location": "Asia/Kathmandu",
+    "utc": "UTC+5:45"
+  },
+  {
+    "city": "Kaunas",
+    "location": "Europe/Vilnius",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Kayes",
+    "location": "Africa/Brazzaville",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Kazan",
+    "location": "Europe/Moscow",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Kaédi",
+    "location": "Africa/Nouakchott",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Kelo",
+    "location": "Africa/Ndjamena",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Kemerovo",
+    "location": "Asia/Novokuznetsk",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Kenema",
+    "location": "Africa/Freetown",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Kenora",
+    "location": "America/Winnipeg",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Kerch",
+    "location": "Europe/Simferopol",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Keren",
+    "location": "Africa/Asmara",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Ketchikan",
+    "location": "America/Sitka",
+    "utc": "UTC-9"
+  },
+  {
+    "city": "Khabarovsk",
+    "location": "Asia/Vladivostok",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Khabarovsk Vtoroy",
+    "location": "Asia/Vladivostok",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Kharabali",
+    "location": "Europe/Astrakhan",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Kharkiv",
+    "location": "Europe/Kiev",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Khartoum",
+    "location": "Africa/Khartoum",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Kholmsk",
+    "location": "Asia/Sakhalin",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Khovd",
+    "location": "Asia/Hovd",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Khromtau",
+    "location": "Asia/Aqtobe",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Khujand",
+    "location": "Asia/Dushanbe",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Khulna",
+    "location": "Asia/Dhaka",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Khust",
+    "location": "Europe/Uzhgorod",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Khān Yūnis",
+    "location": "Asia/Gaza",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Kigali",
+    "location": "Africa/Kigali",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Kikwit",
+    "location": "Africa/Kinshasa",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Kindia",
+    "location": "Africa/Conakry",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Kingsford",
+    "location": "America/Menominee",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Kingston",
+    "location": "America/Jamaica",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Kingston",
+    "location": "Pacific/Norfolk",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Kingstown",
+    "location": "America/St Vincent",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Kingstown Park",
+    "location": "America/St Vincent",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Kinshasa",
+    "location": "Africa/Kinshasa",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Kirov",
+    "location": "Europe/Kirov",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Kirovo-Chepetsk",
+    "location": "Europe/Kirov",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Kisangani",
+    "location": "Africa/Lubumbashi",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Kiselëvsk",
+    "location": "Asia/Novokuznetsk",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Kismayo",
+    "location": "Africa/Mogadishu",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Kisumu",
+    "location": "Africa/Nairobi",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Kitwe",
+    "location": "Africa/Lusaka",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Klaipėda",
+    "location": "Europe/Vilnius",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Klaksvík",
+    "location": "Atlantic/Faroe",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Klang",
+    "location": "Asia/Kuala Lumpur",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Kloulklubed",
+    "location": "Pacific/Palau",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Klyuchi",
+    "location": "Asia/Kamchatka",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Knik-Fairview",
+    "location": "America/Anchorage",
+    "utc": "UTC-9"
+  },
+  {
+    "city": "Kohtla-Järve",
+    "location": "Europe/Tallinn",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Koidu",
+    "location": "Africa/Freetown",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Kolkata",
+    "location": "Asia/Kolkata",
+    "utc": "UTC+5:30"
+  },
+  {
+    "city": "Kolonia",
+    "location": "Pacific/Pohnpei",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Kolonia Town",
+    "location": "Pacific/Pohnpei",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Kolpashevo",
+    "location": "Asia/Tomsk",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Komsomolsk-on-Amur",
+    "location": "Asia/Vladivostok",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Koolbaai",
+    "location": "America/Lower Princes",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Koror",
+    "location": "Pacific/Palau",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Koror Town",
+    "location": "Pacific/Palau",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Korsakov",
+    "location": "Asia/Sakhalin",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Kostanay",
+    "location": "Asia/Qostanay",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Kota Bharu",
+    "location": "Asia/Kuala Lumpur",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Kota Kinabalu",
+    "location": "Asia/Kuching",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Kotel’nich",
+    "location": "Europe/Kirov",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Koudougou",
+    "location": "Africa/Ouagadougou",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Koungou",
+    "location": "Indian/Mayotte",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Kourou",
+    "location": "America/Cayenne",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Kousséri",
+    "location": "Africa/Douala",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Koutiala",
+    "location": "Africa/Bamako",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Kowloon",
+    "location": "Asia/Hong Kong",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Košice",
+    "location": "Europe/Bratislava",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Kpalimé",
+    "location": "Africa/Lome",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Kraków",
+    "location": "Europe/Warsaw",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Kralendijk",
+    "location": "America/Kralendijk",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Kranj",
+    "location": "Europe/Ljubljana",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Krasnokamensk",
+    "location": "Asia/Chita",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Krasnoyarsk",
+    "location": "Asia/Krasnoyarsk",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Kuacjok",
+    "location": "Africa/Juba",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Kuala Belait",
+    "location": "Asia/Brunei",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Kuala Lumpur",
+    "location": "Asia/Kuala Lumpur",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Kuching",
+    "location": "Asia/Kuching",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Kulhudhuffushi",
+    "location": "Indian/Maldives",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Kumanovo",
+    "location": "Europe/Skopje",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Kumasi",
+    "location": "Africa/Accra",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Kutaisi",
+    "location": "Asia/Tbilisi",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Kuybyshev",
+    "location": "Asia/Novosibirsk",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Kyain Seikgyi Township",
+    "location": "Asia/Yangon",
+    "utc": "UTC+6:30"
+  },
+  {
+    "city": "Kyiv",
+    "location": "Europe/Kiev",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Kyrenia",
+    "location": "Asia/Famagusta",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Kyzyl",
+    "location": "Asia/Krasnoyarsk",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Kyzylorda",
+    "location": "Asia/Qyzylorda",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Kópavogur",
+    "location": "Atlantic/Reykjavik",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Köln",
+    "location": "Europe/Berlin",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Kŭlob",
+    "location": "Asia/Dushanbe",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "La Ceiba",
+    "location": "America/Tegucigalpa",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "La Condamine",
+    "location": "Europe/Monaco",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "La Laguna",
+    "location": "Atlantic/Canary",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "La Paz",
+    "location": "America/Mazatlan",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "La Paz",
+    "location": "America/La Paz",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "La Plata",
+    "location": "America/Argentina/Buenos Aires",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "La Punta",
+    "location": "America/Argentina/San Luis",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "La Quiaca",
+    "location": "America/Argentina/Jujuy",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "La Rioja",
+    "location": "America/Argentina/La Rioja",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Laayoune",
+    "location": "Africa/El Aaiun",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Laayoune Plage",
+    "location": "Africa/El Aaiun",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Labasa",
+    "location": "Pacific/Fiji",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Labrador City",
+    "location": "America/Goose Bay",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Lae",
+    "location": "Pacific/Port Moresby",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Lagoa",
+    "location": "Atlantic/Azores",
+    "utc": "UTC-1"
+  },
+  {
+    "city": "Lagos",
+    "location": "Africa/Lagos",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Lahore",
+    "location": "Asia/Karachi",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Lakatoro",
+    "location": "Pacific/Efate",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Lambaré",
+    "location": "America/Asuncion",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Lankaran",
+    "location": "Asia/Baku",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Lapaha",
+    "location": "Pacific/Tongatapu",
+    "utc": "UTC+13"
+  },
+  {
+    "city": "Larnaca",
+    "location": "Asia/Nicosia",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Las Palmas de Gran Canaria",
+    "location": "Atlantic/Canary",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Las Piedras",
+    "location": "America/Montevideo",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Latakia",
+    "location": "Asia/Damascus",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Launceston",
+    "location": "Australia/Hobart",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Lausanne",
+    "location": "Europe/Zurich",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Lautoka",
+    "location": "Pacific/Fiji",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Le François",
+    "location": "America/Martinique",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Le Gosier",
+    "location": "America/Guadeloupe",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Le Hocq",
+    "location": "Europe/Jersey",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Le Lamentin",
+    "location": "America/Martinique",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Le Robert",
+    "location": "America/Martinique",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Le Tampon",
+    "location": "Indian/Reunion",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Leava",
+    "location": "Pacific/Wallis",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Lelydorp",
+    "location": "America/Paramaribo",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Leninsk-Kuznetsky",
+    "location": "Asia/Novokuznetsk",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Leribe",
+    "location": "Africa/Maseru",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Les Abymes",
+    "location": "America/Guadeloupe",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Lethbridge",
+    "location": "America/Edmonton",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Leulumoega",
+    "location": "Pacific/Apia",
+    "utc": "UTC+13"
+  },
+  {
+    "city": "León",
+    "location": "America/Managua",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Liberia",
+    "location": "America/Costa Rica",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Libertador General San Martín",
+    "location": "America/Argentina/Jujuy",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Libreville",
+    "location": "Africa/Libreville",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Liepāja",
+    "location": "Europe/Riga",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Likasi",
+    "location": "Africa/Lubumbashi",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Likisá",
+    "location": "Asia/Dili",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Lilongwe",
+    "location": "Africa/Blantyre",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Lima",
+    "location": "America/Lima",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Limassol",
+    "location": "Asia/Nicosia",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Limón",
+    "location": "America/Costa Rica",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Linden",
+    "location": "America/Guyana",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Linz",
+    "location": "Europe/Vienna",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Lira",
+    "location": "Africa/Kampala",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Lisakovsk",
+    "location": "Asia/Qostanay",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Lisbon",
+    "location": "Europe/Lisbon",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Liverpool",
+    "location": "Europe/London",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Liège",
+    "location": "Europe/Brussels",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Ljubljana",
+    "location": "Europe/Ljubljana",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Lobito",
+    "location": "Africa/Luanda",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Logan City",
+    "location": "Australia/Brisbane",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Lomé",
+    "location": "Africa/Lome",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "London",
+    "location": "Europe/London",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Longyearbyen",
+    "location": "Arctic/Longyearbyen",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Los Angeles",
+    "location": "America/Los Angeles",
+    "utc": "UTC-8"
+  },
+  {
+    "city": "Los Mochis",
+    "location": "America/Mazatlan",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Louisville",
+    "location": "America/Kentucky/Louisville",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Lower Prince’s Quarter",
+    "location": "America/Lower Princes",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Lower Sackville",
+    "location": "America/Halifax",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Luanda",
+    "location": "Africa/Luanda",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Luang Prabang",
+    "location": "Asia/Vientiane",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Lubumbashi",
+    "location": "Africa/Lubumbashi",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Lucaya",
+    "location": "America/Nassau",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Luganville",
+    "location": "Pacific/Efate",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Luhansk",
+    "location": "Europe/Zaporozhye",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Luimneach",
+    "location": "Europe/Dublin",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Lusaka",
+    "location": "Africa/Lusaka",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Luxembourg",
+    "location": "Europe/Luxembourg",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Lyon",
+    "location": "Europe/Paris",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Lysychansk",
+    "location": "Europe/Zaporozhye",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Lápithos",
+    "location": "Asia/Famagusta",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Lárisa",
+    "location": "Europe/Athens",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Lévis",
+    "location": "America/Blanc-Sablon",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Macapá",
+    "location": "America/Belem",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Macau",
+    "location": "Asia/Macau",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Maceió",
+    "location": "America/Maceio",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Machala",
+    "location": "America/Guayaquil",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Machico",
+    "location": "Atlantic/Madeira",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Madang",
+    "location": "Pacific/Port Moresby",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Madrid",
+    "location": "Europe/Madrid",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Madīnat Ḩamad",
+    "location": "Asia/Bahrain",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Mafeteng",
+    "location": "Africa/Maseru",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Magadan",
+    "location": "Asia/Magadan",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Mahajanga",
+    "location": "Indian/Antananarivo",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Mahilyow",
+    "location": "Europe/Minsk",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Mahina",
+    "location": "Pacific/Tahiti",
+    "utc": "UTC-10"
+  },
+  {
+    "city": "Maitland",
+    "location": "Australia/Sydney",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Majuro",
+    "location": "Pacific/Majuro",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Makassar",
+    "location": "Asia/Makassar",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Makeni",
+    "location": "Africa/Freetown",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Malabo",
+    "location": "Africa/Malabo",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Malakal",
+    "location": "Africa/Juba",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Malango",
+    "location": "Pacific/Guadalcanal",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Male",
+    "location": "Indian/Maldives",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Maliana",
+    "location": "Asia/Dili",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Malkerns",
+    "location": "Africa/Mbabane",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Malmö",
+    "location": "Europe/Stockholm",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Mamoudzou",
+    "location": "Indian/Mayotte",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Manacapuru",
+    "location": "America/Manaus",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Manado",
+    "location": "Asia/Makassar",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Managua",
+    "location": "America/Managua",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Manama",
+    "location": "Asia/Bahrain",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Manaus",
+    "location": "America/Manaus",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Mandalay",
+    "location": "Asia/Yangon",
+    "utc": "UTC+6:30"
+  },
+  {
+    "city": "Mandan",
+    "location": "America/North Dakota/New_Salem",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Mandurah",
+    "location": "Australia/Perth",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Mangilao Village",
+    "location": "Pacific/Guam",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Manhattan",
+    "location": "America/New York",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Manila",
+    "location": "Asia/Manila",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Manuel Ojinaga",
+    "location": "America/Ojinaga",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Manukau City",
+    "location": "Pacific/Auckland",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Manzini",
+    "location": "Africa/Mbabane",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Maputo",
+    "location": "Africa/Maputo",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Maputsoe",
+    "location": "Africa/Maseru",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Maqat",
+    "location": "Asia/Atyrau",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Mar del Plata",
+    "location": "America/Argentina/Buenos Aires",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Marabá",
+    "location": "America/Belem",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Maracaibo",
+    "location": "America/Caracas",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Maracay",
+    "location": "America/Caracas",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Maradi",
+    "location": "Africa/Niamey",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Maribor",
+    "location": "Europe/Ljubljana",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Mariehamn",
+    "location": "Europe/Mariehamn",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Marigot",
+    "location": "America/Marigot",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Marka",
+    "location": "Africa/Mogadishu",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Market Shop",
+    "location": "America/St Kitts",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Marrakesh",
+    "location": "Africa/Casablanca",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Marseille",
+    "location": "Europe/Paris",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Mary",
+    "location": "Asia/Ashgabat",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Masaya",
+    "location": "America/Managua",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Maseru",
+    "location": "Africa/Maseru",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Mashhad",
+    "location": "Asia/Tehran",
+    "utc": "UTC+3:30"
+  },
+  {
+    "city": "Masina",
+    "location": "Africa/Kinshasa",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Massawa",
+    "location": "Africa/Asmara",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Mata-Utu",
+    "location": "Pacific/Wallis",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Matadi",
+    "location": "Africa/Kinshasa",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Matagalpa",
+    "location": "America/Managua",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Matola",
+    "location": "Africa/Maputo",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Matoury",
+    "location": "America/Cayenne",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Maun",
+    "location": "Africa/Gaborone",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Mawlamyine",
+    "location": "Asia/Yangon",
+    "utc": "UTC+6:30"
+  },
+  {
+    "city": "Mazatlán",
+    "location": "America/Mazatlan",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Mazār-e Sharīf",
+    "location": "Asia/Kabul",
+    "utc": "UTC+4:30"
+  },
+  {
+    "city": "Mbabane",
+    "location": "Africa/Mbabane",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Mbandaka",
+    "location": "Africa/Kinshasa",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Mbarara",
+    "location": "Africa/Kampala",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Mbaïki",
+    "location": "Africa/Bangui",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Mbeya",
+    "location": "Africa/Dar es_Salaam",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Mbuji-Mayi",
+    "location": "Africa/Lubumbashi",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Mecca",
+    "location": "Asia/Riyadh",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Medan",
+    "location": "Asia/Jakarta",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Medellín",
+    "location": "America/Bogota",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Medina",
+    "location": "Asia/Riyadh",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Mejicanos",
+    "location": "America/El Salvador",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Mekele",
+    "location": "Africa/Addis Ababa",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Melbourne",
+    "location": "Australia/Melbourne",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Melbourne City Centre",
+    "location": "Australia/Melbourne",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Melilla",
+    "location": "Africa/Ceuta",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Mendefera",
+    "location": "Africa/Asmara",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Mendoza",
+    "location": "America/Argentina/Mendoza",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Mengellang",
+    "location": "Pacific/Palau",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Menominee",
+    "location": "America/Menominee",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Meridian",
+    "location": "America/Boise",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Merlo",
+    "location": "America/Argentina/San Luis",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Mesa",
+    "location": "America/Phoenix",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Mexicali",
+    "location": "America/Tijuana",
+    "utc": "UTC-8"
+  },
+  {
+    "city": "Mexico City",
+    "location": "America/Mexico City",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Mezcales",
+    "location": "America/Bahia Banderas",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Micoud",
+    "location": "America/St Lucia",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Middle Island",
+    "location": "America/St Kitts",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Mikhaylovka",
+    "location": "Europe/Volgograd",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Milan",
+    "location": "Europe/Rome",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Mili",
+    "location": "Pacific/Majuro",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Mil’kovo",
+    "location": "Asia/Kamchatka",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Mindelo",
+    "location": "Atlantic/Cape Verde",
+    "utc": "UTC-1"
+  },
+  {
+    "city": "Minsk",
+    "location": "Europe/Minsk",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Miquelon",
+    "location": "America/Miquelon",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Miracema do Tocantins",
+    "location": "America/Araguaina",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Miramichi",
+    "location": "America/Moncton",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Miri",
+    "location": "Asia/Kuching",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Miskolc",
+    "location": "Europe/Budapest",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Mississauga",
+    "location": "America/Toronto",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Mixco",
+    "location": "America/Guatemala",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Miðvágur",
+    "location": "Atlantic/Faroe",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Mişrātah",
+    "location": "Africa/Tripoli",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Moanda",
+    "location": "Africa/Libreville",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Moengo",
+    "location": "America/Paramaribo",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Mogadishu",
+    "location": "Africa/Mogadishu",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Mohale’s Hoek",
+    "location": "Africa/Maseru",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Molepolole",
+    "location": "Africa/Gaborone",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Mombasa",
+    "location": "Africa/Nairobi",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Mon Repos",
+    "location": "America/Port of_Spain",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Monaco",
+    "location": "Europe/Monaco",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Moncton",
+    "location": "America/Moncton",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Monrovia",
+    "location": "Africa/Monrovia",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Mont-Dore",
+    "location": "Pacific/Noumea",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Monte-Carlo",
+    "location": "Europe/Monaco",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Montego Bay",
+    "location": "America/Jamaica",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Monterrey",
+    "location": "America/Monterrey",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Montevideo",
+    "location": "America/Montevideo",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Monticello",
+    "location": "America/Kentucky/Monticello",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Montréal",
+    "location": "America/Toronto",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Moose Jaw",
+    "location": "America/Regina",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Mopti",
+    "location": "Africa/Bamako",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Moratuwa",
+    "location": "Asia/Colombo",
+    "utc": "UTC+5:30"
+  },
+  {
+    "city": "Moroni",
+    "location": "Indian/Comoro",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Morphett Vale",
+    "location": "Australia/Adelaide",
+    "utc": "UTC+9:30"
+  },
+  {
+    "city": "Morón",
+    "location": "America/Argentina/Buenos Aires",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Moscow",
+    "location": "Europe/Moscow",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Mosta",
+    "location": "Europe/Malta",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Mostar",
+    "location": "Europe/Sarajevo",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Mosul",
+    "location": "Asia/Baghdad",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Moundou",
+    "location": "Africa/Ndjamena",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Mount Gambier",
+    "location": "Australia/Adelaide",
+    "utc": "UTC+9:30"
+  },
+  {
+    "city": "Mount Hagen",
+    "location": "Pacific/Port Moresby",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Mount Pearl",
+    "location": "America/St Johns",
+    "utc": "UTC-3:30"
+  },
+  {
+    "city": "Moutsamoudou",
+    "location": "Indian/Comoro",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Mueang Nonthaburi",
+    "location": "Asia/Bangkok",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Mukachevo",
+    "location": "Europe/Uzhgorod",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Mukalla",
+    "location": "Asia/Aden",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Mulifanua",
+    "location": "Pacific/Apia",
+    "utc": "UTC+13"
+  },
+  {
+    "city": "Multan",
+    "location": "Asia/Karachi",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Mumbai",
+    "location": "Asia/Kolkata",
+    "utc": "UTC+5:30"
+  },
+  {
+    "city": "Munich",
+    "location": "Europe/Berlin",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Musanze",
+    "location": "Africa/Kigali",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Muscat",
+    "location": "Asia/Muscat",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Mutare",
+    "location": "Africa/Harare",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Muyinga",
+    "location": "Africa/Bujumbura",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Mwanza",
+    "location": "Africa/Dar es_Salaam",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Mzuzu",
+    "location": "Africa/Blantyre",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Mérida",
+    "location": "America/Merida",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Mörön",
+    "location": "Asia/Ulaanbaatar",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "NDjamena",
+    "location": "Africa/Ndjamena",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Nablus",
+    "location": "Asia/Hebron",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Nadi",
+    "location": "Pacific/Fiji",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Nagoya",
+    "location": "Asia/Tokyo",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Nairobi",
+    "location": "Africa/Nairobi",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Nakuru",
+    "location": "Africa/Nairobi",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Namangan",
+    "location": "Asia/Tashkent",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Nampa",
+    "location": "America/Boise",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Nampula",
+    "location": "Africa/Maputo",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Namp’o",
+    "location": "Asia/Pyongyang",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Naples",
+    "location": "Europe/Rome",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Narva",
+    "location": "Europe/Tallinn",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Nassau",
+    "location": "America/Nassau",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Natal",
+    "location": "America/Fortaleza",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Navojoa",
+    "location": "America/Hermosillo",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Nay Pyi Taw",
+    "location": "Asia/Yangon",
+    "utc": "UTC+6:30"
+  },
+  {
+    "city": "Nazrēt",
+    "location": "Africa/Addis Ababa",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Ndola",
+    "location": "Africa/Lusaka",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Negombo",
+    "location": "Asia/Colombo",
+    "utc": "UTC+5:30"
+  },
+  {
+    "city": "Neiafu",
+    "location": "Pacific/Tongatapu",
+    "utc": "UTC+13"
+  },
+  {
+    "city": "Neryungri",
+    "location": "Asia/Yakutsk",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Neuquén",
+    "location": "America/Argentina/Salta",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Nevel’sk",
+    "location": "Asia/Sakhalin",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "New Albany",
+    "location": "America/Kentucky/Louisville",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "New Amsterdam",
+    "location": "America/Guyana",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "New Kingston",
+    "location": "America/Jamaica",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "New York City",
+    "location": "America/New York",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Newcastle",
+    "location": "Australia/Sydney",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Ngozi",
+    "location": "Africa/Bujumbura",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Nha Trang",
+    "location": "Asia/Ho Chi_Minh",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Nhlangano",
+    "location": "Africa/Mbabane",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Niamey",
+    "location": "Africa/Niamey",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Nice",
+    "location": "Europe/Paris",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Nicosia",
+    "location": "Asia/Nicosia",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Nieuw Nickerie",
+    "location": "America/Paramaribo",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Nikšić",
+    "location": "Europe/Podgorica",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Nitra",
+    "location": "Europe/Bratislava",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Nizhniy Novgorod",
+    "location": "Europe/Moscow",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Niš",
+    "location": "Europe/Belgrade",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Nogales",
+    "location": "America/Hermosillo",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Norilsk",
+    "location": "Asia/Krasnoyarsk",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "North Battleford",
+    "location": "America/Regina",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "North Shore",
+    "location": "Pacific/Auckland",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "North Side",
+    "location": "America/Cayman",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Nossa Senhora do Socorro",
+    "location": "America/Maceio",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Nouadhibou",
+    "location": "Africa/Nouakchott",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Nouakchott",
+    "location": "Africa/Nouakchott",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Nouméa",
+    "location": "Pacific/Noumea",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Novi Sad",
+    "location": "Europe/Belgrade",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Novoaltaysk",
+    "location": "Asia/Barnaul",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Novokazalinsk",
+    "location": "Asia/Qyzylorda",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Novokuybyshevsk",
+    "location": "Europe/Samara",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Novokuznetsk",
+    "location": "Asia/Novokuznetsk",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Novosibirsk",
+    "location": "Asia/Novosibirsk",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Novoul’yanovsk",
+    "location": "Europe/Ulyanovsk",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Nuevo Casas Grandes",
+    "location": "America/Chihuahua",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Nuevo Laredo",
+    "location": "America/Matamoros",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Nukunonu",
+    "location": "Pacific/Fakaofo",
+    "utc": "UTC+13"
+  },
+  {
+    "city": "Nukus",
+    "location": "Asia/Samarkand",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Nuku‘alofa",
+    "location": "Pacific/Tongatapu",
+    "utc": "UTC+13"
+  },
+  {
+    "city": "Nur-Sultan",
+    "location": "Asia/Almaty",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Nuuk",
+    "location": "America/Godthab",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Nyala",
+    "location": "Africa/Khartoum",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Nzérékoré",
+    "location": "Africa/Conakry",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Néma",
+    "location": "Africa/Nouakchott",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "N’dalatando",
+    "location": "Africa/Luanda",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Obock",
+    "location": "Africa/Djibouti",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Odense",
+    "location": "Europe/Copenhagen",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Odessa",
+    "location": "Europe/Kiev",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Oistins",
+    "location": "America/Barbados",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Ojinaga",
+    "location": "America/Ojinaga",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Okanagan",
+    "location": "America/Vancouver",
+    "utc": "UTC-8"
+  },
+  {
+    "city": "Okha",
+    "location": "Asia/Sakhalin",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Ola",
+    "location": "Asia/Magadan",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Olinda",
+    "location": "America/Recife",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Olomouc",
+    "location": "Europe/Prague",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Olonkinbyen",
+    "location": "Arctic/Longyearbyen",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Omdurman",
+    "location": "Africa/Khartoum",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Omsk",
+    "location": "Asia/Omsk",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Oral",
+    "location": "Asia/Oral",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Oran",
+    "location": "Africa/Algiers",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Orange Walk",
+    "location": "America/Belize",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Oranjestad",
+    "location": "America/Aruba",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Oranjestad",
+    "location": "America/Kralendijk",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Orenburg",
+    "location": "Asia/Yekaterinburg",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Oriximiná",
+    "location": "America/Santarem",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Oruro",
+    "location": "America/La Paz",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Osaka",
+    "location": "Asia/Tokyo",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Osh",
+    "location": "Asia/Bishkek",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Oshakati",
+    "location": "Africa/Windhoek",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Osijek",
+    "location": "Europe/Zagreb",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Oslo",
+    "location": "Europe/Oslo",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Ostrava",
+    "location": "Europe/Prague",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Ottawa",
+    "location": "America/Toronto",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Ouagadougou",
+    "location": "Africa/Ouagadougou",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Ouahigouya",
+    "location": "Africa/Ouagadougou",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Owando",
+    "location": "Africa/Brazzaville",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Oyem",
+    "location": "Africa/Libreville",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Pago Pago",
+    "location": "Pacific/Pago Pago",
+    "utc": "UTC-11"
+  },
+  {
+    "city": "Pakse",
+    "location": "Asia/Vientiane",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Palangkaraya",
+    "location": "Asia/Pontianak",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Palermo",
+    "location": "Europe/Rome",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Palikir - National Government Center",
+    "location": "Pacific/Pohnpei",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Palmas",
+    "location": "America/Araguaina",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Palmerston",
+    "location": "Australia/Darwin",
+    "utc": "UTC+9:30"
+  },
+  {
+    "city": "Palpalá",
+    "location": "America/Argentina/Jujuy",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Panamá",
+    "location": "America/Panama",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Panevėžys",
+    "location": "Europe/Vilnius",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Pangai",
+    "location": "Pacific/Tongatapu",
+    "utc": "UTC+13"
+  },
+  {
+    "city": "Papeete",
+    "location": "Pacific/Tahiti",
+    "utc": "UTC-10"
+  },
+  {
+    "city": "Paphos",
+    "location": "Asia/Nicosia",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Paradera",
+    "location": "America/Aruba",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Parakou",
+    "location": "Africa/Porto-Novo",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Paralímni",
+    "location": "Asia/Famagusta",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Paramaribo",
+    "location": "America/Paramaribo",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Parauapebas",
+    "location": "America/Belem",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Parham",
+    "location": "America/Antigua",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Parintins",
+    "location": "America/Manaus",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Paris",
+    "location": "Europe/Paris",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Parral",
+    "location": "America/Chihuahua",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Paulista",
+    "location": "America/Recife",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Paysandú",
+    "location": "America/Montevideo",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Païta",
+    "location": "Pacific/Noumea",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Pearl City",
+    "location": "Pacific/Honolulu",
+    "utc": "UTC-10"
+  },
+  {
+    "city": "Peel",
+    "location": "Europe/Isle of_Man",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Pemagatshel",
+    "location": "Asia/Thimphu",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Perm",
+    "location": "Asia/Yekaterinburg",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Perth",
+    "location": "Australia/Perth",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Petapa",
+    "location": "America/Guatemala",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Petit-Bourg",
+    "location": "America/Guadeloupe",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Petropavlovsk-Kamchatsky",
+    "location": "Asia/Kamchatka",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Petrovsk-Zabaykal’skiy",
+    "location": "Asia/Chita",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Philadelphia",
+    "location": "America/New York",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Philipsburg",
+    "location": "America/Lower Princes",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Phnom Penh",
+    "location": "Asia/Phnom Penh",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Phoenix",
+    "location": "America/Phoenix",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Phuntsholing",
+    "location": "Asia/Thimphu",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Pico Truncado",
+    "location": "America/Argentina/Rio Gallegos",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Piedras Negras",
+    "location": "America/Matamoros",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Piggotts",
+    "location": "America/Antigua",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Pikine",
+    "location": "Africa/Dakar",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Pilsen",
+    "location": "Europe/Prague",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Pirae",
+    "location": "Pacific/Tahiti",
+    "utc": "UTC-10"
+  },
+  {
+    "city": "Piraeus",
+    "location": "Europe/Athens",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Playa del Carmen",
+    "location": "America/Cancun",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Pleasure Ridge Park",
+    "location": "America/Kentucky/Louisville",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Pljevlja",
+    "location": "Europe/Podgorica",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Plovdiv",
+    "location": "Europe/Sofia",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Plymouth",
+    "location": "America/Montserrat",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Pocatello",
+    "location": "America/Boise",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Pocito",
+    "location": "America/Argentina/San Juan",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Podgorica",
+    "location": "Europe/Podgorica",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Pointe-Noire",
+    "location": "Africa/Brazzaville",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Pokhara",
+    "location": "Asia/Kathmandu",
+    "utc": "UTC+5:45"
+  },
+  {
+    "city": "Ponce",
+    "location": "America/Puerto Rico",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Ponta Delgada",
+    "location": "Atlantic/Azores",
+    "utc": "UTC-1"
+  },
+  {
+    "city": "Ponta Porã",
+    "location": "America/Campo Grande",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Pontianak",
+    "location": "Asia/Pontianak",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Popondetta",
+    "location": "Pacific/Port Moresby",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Port Elizabeth",
+    "location": "America/St Vincent",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Port Erin",
+    "location": "Europe/Isle of_Man",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Port Harcourt",
+    "location": "Africa/Lagos",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Port Louis",
+    "location": "Indian/Mauritius",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Port Moresby",
+    "location": "Pacific/Port Moresby",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Port Said",
+    "location": "Africa/Cairo",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Port Sudan",
+    "location": "Africa/Khartoum",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Port of Spain",
+    "location": "America/Port of_Spain",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Port-Gentil",
+    "location": "Africa/Libreville",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Port-Vila",
+    "location": "Pacific/Efate",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Port-au-Prince",
+    "location": "America/Port-au-Prince",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Port-aux-Français",
+    "location": "Indian/Kerguelen",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Port-de-Paix",
+    "location": "America/Port-au-Prince",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Portage la Prairie",
+    "location": "America/Winnipeg",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Portmore",
+    "location": "America/Jamaica",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Porto",
+    "location": "Europe/Lisbon",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Porto Franco",
+    "location": "America/Araguaina",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Porto Velho",
+    "location": "America/Porto Velho",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Porto-Novo",
+    "location": "Africa/Porto-Novo",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Portsmouth",
+    "location": "America/Dominica",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Poznań",
+    "location": "Europe/Warsaw",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Prague",
+    "location": "Europe/Prague",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Praia",
+    "location": "Atlantic/Cape Verde",
+    "utc": "UTC-1"
+  },
+  {
+    "city": "Pretoria",
+    "location": "Africa/Johannesburg",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Prešov",
+    "location": "Europe/Bratislava",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Prilep",
+    "location": "Europe/Skopje",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Prince Albert",
+    "location": "America/Regina",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Pristina",
+    "location": "Europe/Belgrade",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Prizren",
+    "location": "Europe/Belgrade",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Prokop’yevsk",
+    "location": "Asia/Novokuznetsk",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Protaras",
+    "location": "Asia/Famagusta",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Puebla",
+    "location": "America/Mexico City",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Puente Alto",
+    "location": "America/Santiago",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Puerto Ayora",
+    "location": "Pacific/Galapagos",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Puerto Baquerizo Moreno",
+    "location": "Pacific/Galapagos",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Puerto Deseado",
+    "location": "America/Argentina/Rio Gallegos",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Puerto Madryn",
+    "location": "America/Argentina/Catamarca",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Puerto Natales",
+    "location": "America/Punta Arenas",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Punaauia",
+    "location": "Pacific/Tahiti",
+    "utc": "UTC-10"
+  },
+  {
+    "city": "Punta Arenas",
+    "location": "America/Punta Arenas",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Punākha",
+    "location": "Asia/Thimphu",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Pyongyang",
+    "location": "Asia/Pyongyang",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Pátra",
+    "location": "Europe/Athens",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Pärnu",
+    "location": "Europe/Tallinn",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Pécs",
+    "location": "Europe/Budapest",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Pétionville",
+    "location": "America/Port-au-Prince",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Pātan",
+    "location": "Asia/Kathmandu",
+    "utc": "UTC+5:45"
+  },
+  {
+    "city": "Qaqortoq",
+    "location": "America/Godthab",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Qarshi",
+    "location": "Asia/Samarkand",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Qormi",
+    "location": "Europe/Malta",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Qo‘qon",
+    "location": "Asia/Tashkent",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Quatre Bornes",
+    "location": "Indian/Mauritius",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Queens",
+    "location": "America/New York",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Quezon City",
+    "location": "Asia/Manila",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Quito",
+    "location": "America/Guayaquil",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Qulsary",
+    "location": "Asia/Atyrau",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Québec",
+    "location": "America/Toronto",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Rabat",
+    "location": "Africa/Casablanca",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Rabo de Peixe",
+    "location": "Atlantic/Azores",
+    "utc": "UTC-1"
+  },
+  {
+    "city": "Rafaḩ",
+    "location": "Asia/Gaza",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Ramsey",
+    "location": "Europe/Isle of_Man",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Ras Al Khaimah City",
+    "location": "Asia/Dubai",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Rawalpindi",
+    "location": "Asia/Karachi",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Rawson",
+    "location": "America/Argentina/Catamarca",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Ra’s Bayrūt",
+    "location": "Asia/Beirut",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Recife",
+    "location": "America/Recife",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Red Deer",
+    "location": "America/Edmonton",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Regina",
+    "location": "America/Regina",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Resistencia",
+    "location": "America/Argentina/Cordoba",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Reykjavík",
+    "location": "Atlantic/Reykjavik",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Reynosa",
+    "location": "America/Matamoros",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Riga",
+    "location": "Europe/Riga",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Rijeka",
+    "location": "Europe/Zagreb",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Rio Branco",
+    "location": "America/Rio Branco",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Rio Claro",
+    "location": "America/Port of_Spain",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Rio de Janeiro",
+    "location": "America/Sao Paulo",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Rivera",
+    "location": "America/Montevideo",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Riyadh",
+    "location": "Asia/Riyadh",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Road Town",
+    "location": "America/Tortola",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Rockingham",
+    "location": "Australia/Perth",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Rome",
+    "location": "Europe/Rome",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Rondonópolis",
+    "location": "America/Cuiaba",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Rosario",
+    "location": "America/Argentina/Cordoba",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Rosarito",
+    "location": "America/Tijuana",
+    "utc": "UTC-8"
+  },
+  {
+    "city": "Roseau",
+    "location": "America/Dominica",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Rosso",
+    "location": "Africa/Nouakchott",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Rosto de Cão",
+    "location": "Atlantic/Azores",
+    "utc": "UTC-1"
+  },
+  {
+    "city": "Rostov-na-Donu",
+    "location": "Europe/Moscow",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Rotterdam",
+    "location": "Europe/Amsterdam",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Rubtsovsk",
+    "location": "Asia/Barnaul",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Rudnyy",
+    "location": "Asia/Qostanay",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Rundu",
+    "location": "Africa/Windhoek",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Ruse",
+    "location": "Europe/Sofia",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Russeifa",
+    "location": "Asia/Amman",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Ruyigi",
+    "location": "Africa/Bujumbura",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Rémire-Montjoly",
+    "location": "America/Cayenne",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Río Gallegos",
+    "location": "America/Argentina/Rio Gallegos",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Río Grande",
+    "location": "America/Argentina/Ushuaia",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Rîbniţa",
+    "location": "Europe/Chisinau",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Rājshāhi",
+    "location": "Asia/Dhaka",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Sada",
+    "location": "Indian/Mayotte",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Saint Croix",
+    "location": "America/St Thomas",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Saint David’s",
+    "location": "America/Grenada",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Saint Georges",
+    "location": "America/Grenada",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Saint Helier",
+    "location": "Europe/Jersey",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Saint John",
+    "location": "America/Moncton",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Saint John’s",
+    "location": "America/Antigua",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Saint Joseph",
+    "location": "America/Dominica",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Saint Paul’s",
+    "location": "America/St Kitts",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Saint Peter Port",
+    "location": "Europe/Guernsey",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Saint Peters",
+    "location": "America/Montserrat",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Saint Petersburg",
+    "location": "Europe/Moscow",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Saint Sampson",
+    "location": "Europe/Guernsey",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Saint Saviour",
+    "location": "Europe/Guernsey",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Saint-André",
+    "location": "Indian/Reunion",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Saint-Denis",
+    "location": "Indian/Reunion",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Saint-Laurent-du-Maroni",
+    "location": "America/Cayenne",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Saint-Paul",
+    "location": "Indian/Reunion",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Saint-Pierre",
+    "location": "America/Miquelon",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Saint-Pierre",
+    "location": "Indian/Reunion",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Sainte-Anne",
+    "location": "America/Guadeloupe",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Sainte-Marie",
+    "location": "America/Martinique",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Saipan",
+    "location": "Pacific/Saipan",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Sale",
+    "location": "Africa/Casablanca",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Salta",
+    "location": "America/Argentina/Salta",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Saltillo",
+    "location": "America/Monterrey",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Salto",
+    "location": "America/Montevideo",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Salvador",
+    "location": "America/Bahia",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Samara",
+    "location": "Europe/Samara",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Samarkand",
+    "location": "Asia/Samarkand",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Sampit",
+    "location": "Asia/Pontianak",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Samut Prakan",
+    "location": "Asia/Bangkok",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "San Antonio",
+    "location": "America/Chicago",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "San Carlos de Bariloche",
+    "location": "America/Argentina/Salta",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "San Diego",
+    "location": "America/Los Angeles",
+    "utc": "UTC-8"
+  },
+  {
+    "city": "San Fernando",
+    "location": "America/Port of_Spain",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "San Fernando del Valle de Catamarca",
+    "location": "America/Argentina/Catamarca",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "San Francisco",
+    "location": "America/Los Angeles",
+    "utc": "UTC-8"
+  },
+  {
+    "city": "San Francisco",
+    "location": "America/Costa Rica",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "San Ignacio",
+    "location": "America/Belize",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "San Jose",
+    "location": "America/Los Angeles",
+    "utc": "UTC-8"
+  },
+  {
+    "city": "San Jose Village",
+    "location": "Pacific/Saipan",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "San José",
+    "location": "America/Costa Rica",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "San Juan",
+    "location": "America/Puerto Rico",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "San Juan",
+    "location": "America/Argentina/San Juan",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "San Juan Sacatepéquez",
+    "location": "America/Guatemala",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "San Lorenzo",
+    "location": "America/Asuncion",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "San Luis",
+    "location": "America/Argentina/San Luis",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "San Luis Río Colorado",
+    "location": "America/Hermosillo",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "San Marino",
+    "location": "Europe/San Marino",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "San Martín",
+    "location": "America/Argentina/Mendoza",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "San Miguel",
+    "location": "America/El Salvador",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "San Miguel de Tucumán",
+    "location": "America/Argentina/Tucuman",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "San Miguelito",
+    "location": "America/Panama",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "San Nicolas",
+    "location": "America/Aruba",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "San Pawl il-Baħar",
+    "location": "Europe/Malta",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "San Pedro Sula",
+    "location": "America/Tegucigalpa",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "San Pedro de Jujuy",
+    "location": "America/Argentina/Jujuy",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "San Pedro de Macorís",
+    "location": "America/Santo Domingo",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "San Rafael",
+    "location": "America/Argentina/Mendoza",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "San Salvador",
+    "location": "America/El Salvador",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "San Salvador de Jujuy",
+    "location": "America/Argentina/Jujuy",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "San Vicente",
+    "location": "America/Bahia Banderas",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "San-Pédro",
+    "location": "Africa/Abidjan",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Sanaa",
+    "location": "Asia/Aden",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Sandakan",
+    "location": "Asia/Kuching",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Sandy Bay",
+    "location": "Australia/Hobart",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Sandy Ground Village",
+    "location": "America/Anguilla",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Sandy Hill",
+    "location": "America/Anguilla",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Sant Julià de Lòria",
+    "location": "Europe/Andorra",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Santa Ana",
+    "location": "America/El Salvador",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Santa Cruz",
+    "location": "America/Aruba",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Santa Cruz",
+    "location": "Atlantic/Cape Verde",
+    "utc": "UTC-1"
+  },
+  {
+    "city": "Santa Cruz de Tenerife",
+    "location": "Atlantic/Canary",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Santa Cruz de la Sierra",
+    "location": "America/La Paz",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Santa Fe",
+    "location": "America/Argentina/Cordoba",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Santa Lucía",
+    "location": "America/Argentina/San Juan",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Santa Maria",
+    "location": "Atlantic/Cape Verde",
+    "utc": "UTC-1"
+  },
+  {
+    "city": "Santa Rosa",
+    "location": "America/Argentina/Salta",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Santarém",
+    "location": "America/Santarem",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Santiago",
+    "location": "America/Santiago",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Santiago de Cuba",
+    "location": "America/Havana",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Santiago de los Caballeros",
+    "location": "America/Santo Domingo",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Santiago del Estero",
+    "location": "America/Argentina/Cordoba",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Santo António",
+    "location": "Africa/Sao Tome",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Santo Domingo",
+    "location": "America/Santo Domingo",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Santo Domingo Este",
+    "location": "America/Santo Domingo",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Santo Domingo Oeste",
+    "location": "America/Santo Domingo",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Santo Domingo de los Colorados",
+    "location": "America/Guayaquil",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Sapporo",
+    "location": "Asia/Tokyo",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Sarajevo",
+    "location": "Europe/Sarajevo",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Saratov",
+    "location": "Europe/Saratov",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Sarh",
+    "location": "Africa/Ndjamena",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Saskatoon",
+    "location": "America/Regina",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Savannakhet",
+    "location": "Asia/Vientiane",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Savave Village",
+    "location": "Pacific/Funafuti",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Schaan",
+    "location": "Europe/Vaduz",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Schifflange",
+    "location": "Europe/Luxembourg",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Seattle",
+    "location": "America/Los Angeles",
+    "utc": "UTC-8"
+  },
+  {
+    "city": "Sector 2",
+    "location": "Europe/Bucharest",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Sector 3",
+    "location": "Europe/Bucharest",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Sector 6",
+    "location": "Europe/Bucharest",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Seeb",
+    "location": "Asia/Muscat",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Selebi-Phikwe",
+    "location": "Africa/Gaborone",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Sena Madureira",
+    "location": "America/Rio Branco",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Seoul",
+    "location": "Asia/Seoul",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Serekunda",
+    "location": "Africa/Banjul",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Seria",
+    "location": "Asia/Brunei",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Serravalle",
+    "location": "Europe/San Marino",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Setúbal",
+    "location": "Europe/Lisbon",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Sevastopol",
+    "location": "Europe/Zaporozhye",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Seversk",
+    "location": "Asia/Tomsk",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Sevilla",
+    "location": "Europe/Madrid",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Sfax",
+    "location": "Africa/Tunis",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Shalkar",
+    "location": "Asia/Atyrau",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Shalqar",
+    "location": "Asia/Aqtobe",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Shanghai",
+    "location": "Asia/Shanghai",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Sharjah",
+    "location": "Asia/Dubai",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Sheffield",
+    "location": "Europe/London",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Shenzhen",
+    "location": "Asia/Shanghai",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Shetpe",
+    "location": "Asia/Aqtau",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Shevchenko",
+    "location": "Asia/Aqtau",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Shihezi",
+    "location": "Asia/Urumqi",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Shkodër",
+    "location": "Europe/Tirane",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Shymkent",
+    "location": "Asia/Almaty",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Sidon",
+    "location": "Asia/Beirut",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Siem Reap",
+    "location": "Asia/Phnom Penh",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Sievierodonetsk",
+    "location": "Europe/Zaporozhye",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Sihanoukville",
+    "location": "Asia/Phnom Penh",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Sikasso",
+    "location": "Africa/Bamako",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Simferopol",
+    "location": "Europe/Simferopol",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Singapore",
+    "location": "Asia/Singapore",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Singkawang",
+    "location": "Asia/Pontianak",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Sinop",
+    "location": "America/Cuiaba",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Sint Michiel Liber",
+    "location": "America/Curacao",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Sisimiut",
+    "location": "America/Godthab",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Sitka",
+    "location": "America/Sitka",
+    "utc": "UTC-9"
+  },
+  {
+    "city": "Skopje",
+    "location": "Europe/Skopje",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Slobodskoy",
+    "location": "Europe/Kirov",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Sofia",
+    "location": "Europe/Sofia",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Sohar",
+    "location": "Asia/Muscat",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Sokhumi",
+    "location": "Asia/Tbilisi",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Sokodé",
+    "location": "Africa/Lome",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Sola",
+    "location": "Pacific/Efate",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Sollentuna",
+    "location": "Europe/Stockholm",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Sorong",
+    "location": "Asia/Jayapura",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Soufrière",
+    "location": "America/St Lucia",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Sousse",
+    "location": "Africa/Tunis",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "South Bend",
+    "location": "America/Indiana/Indianapolis",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Sovetsk",
+    "location": "Europe/Kaliningrad",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Soweto",
+    "location": "Africa/Johannesburg",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Soyapango",
+    "location": "America/El Salvador",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Spanish Town",
+    "location": "America/Jamaica",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Speightstown",
+    "location": "America/Barbados",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Split",
+    "location": "Europe/Zagreb",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "St Anne",
+    "location": "Europe/Guernsey",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "St Martin",
+    "location": "Europe/Guernsey",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "St. Johns",
+    "location": "America/St Johns",
+    "utc": "UTC-3:30"
+  },
+  {
+    "city": "Stanley",
+    "location": "Atlantic/Stanley",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Stavanger",
+    "location": "Europe/Oslo",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Sterling Heights",
+    "location": "America/Detroit",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Stockholm",
+    "location": "Europe/Stockholm",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Strezhevoy",
+    "location": "Asia/Tomsk",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Stróvolos",
+    "location": "Asia/Nicosia",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Suai",
+    "location": "Asia/Dili",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Sucre",
+    "location": "America/La Paz",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Suez",
+    "location": "Africa/Cairo",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Sulţānah",
+    "location": "Asia/Riyadh",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Sumqayıt",
+    "location": "Asia/Baku",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Sunch’ŏn",
+    "location": "Asia/Pyongyang",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Surabaya",
+    "location": "Asia/Jakarta",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Surrey",
+    "location": "America/Vancouver",
+    "utc": "UTC-8"
+  },
+  {
+    "city": "Susuman",
+    "location": "Asia/Magadan",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Suva",
+    "location": "Pacific/Fiji",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Svobodnyy",
+    "location": "Asia/Yakutsk",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Swakopmund",
+    "location": "Africa/Windhoek",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Swift Current",
+    "location": "America/Swift Current",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Sydney",
+    "location": "America/Glace Bay",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Sydney",
+    "location": "Australia/Sydney",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Sydney Mines",
+    "location": "America/Glace Bay",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Syzran’",
+    "location": "Europe/Samara",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Szeged",
+    "location": "Europe/Budapest",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "São Cristóvão",
+    "location": "America/Maceio",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "São Luís",
+    "location": "America/Fortaleza",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "São Martinho",
+    "location": "Atlantic/Madeira",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "São Paulo",
+    "location": "America/Sao Paulo",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "São Tomé",
+    "location": "Africa/Sao Tome",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Ségou",
+    "location": "Africa/Bamako",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Ta`ū",
+    "location": "Pacific/Pago Pago",
+    "utc": "UTC-11"
+  },
+  {
+    "city": "Tabriz",
+    "location": "Asia/Tehran",
+    "utc": "UTC+3:30"
+  },
+  {
+    "city": "Tadjourah",
+    "location": "Africa/Djibouti",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Tafí Viejo",
+    "location": "America/Argentina/Tucuman",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Taichung",
+    "location": "Asia/Taipei",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Tainan",
+    "location": "Asia/Taipei",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Taiohae",
+    "location": "Pacific/Marquesas",
+    "utc": "UTC-9:30"
+  },
+  {
+    "city": "Taipei",
+    "location": "Asia/Taipei",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Taiz",
+    "location": "Asia/Aden",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Takeo",
+    "location": "Asia/Phnom Penh",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Takoradi",
+    "location": "Africa/Accra",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Tallaght",
+    "location": "Europe/Dublin",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Tallinn",
+    "location": "Europe/Tallinn",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Tamale",
+    "location": "Africa/Accra",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Tampere",
+    "location": "Europe/Helsinki",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Tamuning",
+    "location": "Pacific/Guam",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Tamuning-Tumon-Harmon Village",
+    "location": "Pacific/Guam",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Tanjung Pinang",
+    "location": "Asia/Pontianak",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Tanki Leendert",
+    "location": "America/Aruba",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Tanrake Village",
+    "location": "Pacific/Funafuti",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Tara",
+    "location": "Asia/Omsk",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Tarauacá",
+    "location": "America/Rio Branco",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Tarawa",
+    "location": "Pacific/Tarawa",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Taraz",
+    "location": "Asia/Almaty",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Tarhuna",
+    "location": "Africa/Tripoli",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Tartu",
+    "location": "Europe/Tallinn",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Tashkent",
+    "location": "Asia/Tashkent",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Tasqala",
+    "location": "Asia/Oral",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Taulaga",
+    "location": "Pacific/Pago Pago",
+    "utc": "UTC-11"
+  },
+  {
+    "city": "Tavricheskoye",
+    "location": "Asia/Omsk",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Tawau",
+    "location": "Asia/Kuching",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Tbilisi",
+    "location": "Asia/Tbilisi",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Tecate",
+    "location": "America/Tijuana",
+    "utc": "UTC-8"
+  },
+  {
+    "city": "Tegucigalpa",
+    "location": "America/Tegucigalpa",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Tehran",
+    "location": "Asia/Tehran",
+    "utc": "UTC+3:30"
+  },
+  {
+    "city": "Tel Aviv",
+    "location": "Asia/Jerusalem",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Telde",
+    "location": "Atlantic/Canary",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Tell City",
+    "location": "America/Indiana/Tell City",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Tepic",
+    "location": "America/Mazatlan",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Teresina",
+    "location": "America/Fortaleza",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Ternate",
+    "location": "Asia/Jayapura",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Tetovo",
+    "location": "Europe/Skopje",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Thakhèk",
+    "location": "Asia/Vientiane",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "The Bottom",
+    "location": "America/Kralendijk",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "The Hague",
+    "location": "Europe/Amsterdam",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "The Quarter",
+    "location": "America/Anguilla",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "The Valley",
+    "location": "America/Anguilla",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Thessaloníki",
+    "location": "Europe/Athens",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Thimphu",
+    "location": "Asia/Thimphu",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Thinadhoo",
+    "location": "Indian/Maldives",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Thiès",
+    "location": "Africa/Dakar",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Thiès Nones",
+    "location": "Africa/Dakar",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Thompson",
+    "location": "America/Winnipeg",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Thunder Bay",
+    "location": "America/Thunder Bay",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Tianjin",
+    "location": "Asia/Shanghai",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Tijuana",
+    "location": "America/Tijuana",
+    "utc": "UTC-8"
+  },
+  {
+    "city": "Tirana",
+    "location": "Europe/Tirane",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Tiraspol",
+    "location": "Europe/Chisinau",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Toamasina",
+    "location": "Indian/Antananarivo",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Tofol",
+    "location": "Pacific/Kosrae",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Toga Village",
+    "location": "Pacific/Funafuti",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Togliatti-on-the-Volga",
+    "location": "Europe/Samara",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Tokmok",
+    "location": "Asia/Bishkek",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Tokyo",
+    "location": "Asia/Tokyo",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Tomsk",
+    "location": "Asia/Tomsk",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Toronto",
+    "location": "America/Toronto",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Torreón",
+    "location": "America/Monterrey",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Touba",
+    "location": "Africa/Dakar",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Toulouse",
+    "location": "Europe/Paris",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Townsville",
+    "location": "Australia/Brisbane",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Trelew",
+    "location": "America/Argentina/Catamarca",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Triesen",
+    "location": "Europe/Vaduz",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Tripoli",
+    "location": "Africa/Tripoli",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Tripoli",
+    "location": "Asia/Beirut",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Trondheim",
+    "location": "Europe/Oslo",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Trujillo",
+    "location": "America/Lima",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Truro",
+    "location": "America/Halifax",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Três Lagoas",
+    "location": "America/Campo Grande",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Tsimbeo",
+    "location": "Indian/Comoro",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Tsirang",
+    "location": "Asia/Thimphu",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Tsuen Wan",
+    "location": "Asia/Hong Kong",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Tucson",
+    "location": "America/Phoenix",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Tung Chung",
+    "location": "Asia/Hong Kong",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Tunis",
+    "location": "Africa/Tunis",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Turin",
+    "location": "Europe/Rome",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Turku",
+    "location": "Europe/Helsinki",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Tutong",
+    "location": "Asia/Brunei",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Tuzla",
+    "location": "Europe/Sarajevo",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Tvøroyri",
+    "location": "Atlantic/Faroe",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Tyachiv",
+    "location": "Europe/Uzhgorod",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Tyre",
+    "location": "Asia/Beirut",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Tébessa",
+    "location": "Africa/Algiers",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Tórshavn",
+    "location": "Atlantic/Faroe",
+    "utc": "UTC+0"
+  },
+  {
+    "city": "Türkmenabat",
+    "location": "Asia/Ashgabat",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Tāfuna",
+    "location": "Pacific/Pago Pago",
+    "utc": "UTC-11"
+  },
+  {
+    "city": "Uaboe",
+    "location": "Pacific/Nauru",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Ufa",
+    "location": "Asia/Yekaterinburg",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Ulaangom",
+    "location": "Asia/Hovd",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Ulan Bator",
+    "location": "Asia/Ulaanbaatar",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Ulan-Ude",
+    "location": "Asia/Irkutsk",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Uliastay",
+    "location": "Asia/Hovd",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Ulimang",
+    "location": "Pacific/Palau",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Ulyanovsk",
+    "location": "Europe/Ulyanovsk",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Umm Şalāl Muḩammad",
+    "location": "Asia/Qatar",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Uppsala",
+    "location": "Europe/Stockholm",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Uryupinsk",
+    "location": "Europe/Volgograd",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Ushuaia",
+    "location": "America/Argentina/Ushuaia",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Ussuriysk",
+    "location": "Asia/Vladivostok",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Ust-Nera",
+    "location": "Asia/Magadan",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Ust’-Ilimsk",
+    "location": "Asia/Irkutsk",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Utrecht",
+    "location": "Europe/Amsterdam",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Uzhgorod",
+    "location": "Europe/Uzhgorod",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Vacoas",
+    "location": "Indian/Mauritius",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Vaduz",
+    "location": "Europe/Vaduz",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Vagharshapat",
+    "location": "Asia/Yerevan",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Valencia",
+    "location": "America/Caracas",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Valencia",
+    "location": "Europe/Madrid",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Valladolid",
+    "location": "America/Merida",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Valle de Banderas",
+    "location": "America/Bahia Banderas",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Valparaíso",
+    "location": "America/Santiago",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Vanadzor",
+    "location": "Asia/Yerevan",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Vancouver",
+    "location": "America/Vancouver",
+    "utc": "UTC-8"
+  },
+  {
+    "city": "Vantaa",
+    "location": "Europe/Helsinki",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Varna",
+    "location": "Europe/Sofia",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Vatican City",
+    "location": "Europe/Vatican",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Velenje",
+    "location": "Europe/Ljubljana",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Victoria",
+    "location": "America/Vancouver",
+    "utc": "UTC-8"
+  },
+  {
+    "city": "Victoria",
+    "location": "America/Grenada",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Victoria",
+    "location": "Indian/Mahe",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Victoria de Durango",
+    "location": "America/Monterrey",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Vienna",
+    "location": "Europe/Vienna",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Vientiane",
+    "location": "Asia/Vientiane",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Vieux Fort",
+    "location": "America/St Lucia",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Vilhena",
+    "location": "America/Porto Velho",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Villa Mercedes",
+    "location": "America/Argentina/San Luis",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Villa Nueva",
+    "location": "America/Guatemala",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Vilnius",
+    "location": "Europe/Vilnius",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Vilyuchinsk",
+    "location": "Asia/Kamchatka",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Vincennes",
+    "location": "America/Indiana/Vincennes",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Vitebsk",
+    "location": "Europe/Minsk",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Vitória da Conquista",
+    "location": "America/Bahia",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Viña del Mar",
+    "location": "America/Santiago",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Vladivostok",
+    "location": "Asia/Vladivostok",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Vlorë",
+    "location": "Europe/Tirane",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Volgograd",
+    "location": "Europe/Volgograd",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Volzhskiy",
+    "location": "Europe/Volgograd",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Vol’sk",
+    "location": "Europe/Saratov",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Vyatskiye Polyany",
+    "location": "Europe/Kirov",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Várzea Grande",
+    "location": "America/Cuiaba",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Waitangi",
+    "location": "Pacific/Chatham",
+    "utc": "UTC+12:45"
+  },
+  {
+    "city": "Walvis Bay",
+    "location": "Africa/Windhoek",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Warren",
+    "location": "America/Detroit",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Warsaw",
+    "location": "Europe/Warsaw",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Washington",
+    "location": "America/Indiana/Vincennes",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "Wau",
+    "location": "Africa/Juba",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Wellington",
+    "location": "Pacific/Auckland",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Weno",
+    "location": "Pacific/Chuuk",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Wesley",
+    "location": "America/Dominica",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "West Bay",
+    "location": "America/Cayman",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "West End",
+    "location": "America/Nassau",
+    "utc": "UTC-5"
+  },
+  {
+    "city": "West Island",
+    "location": "Indian/Cocos",
+    "utc": "UTC+6:30"
+  },
+  {
+    "city": "West Jerusalem",
+    "location": "Asia/Jerusalem",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Whitehorse",
+    "location": "America/Whitehorse",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Willemstad",
+    "location": "America/Curacao",
+    "utc": "UTC-4"
+  },
+  {
+    "city": "Windhoek",
+    "location": "Africa/Windhoek",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Winejok",
+    "location": "Africa/Juba",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Winnipeg",
+    "location": "America/Winnipeg",
+    "utc": "UTC-6"
+  },
+  {
+    "city": "Wollongong",
+    "location": "Australia/Sydney",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Woodlands",
+    "location": "Asia/Singapore",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Wotje",
+    "location": "Pacific/Majuro",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Wrocław",
+    "location": "Europe/Warsaw",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Wé",
+    "location": "Pacific/Noumea",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Wādī as Sīr",
+    "location": "Asia/Amman",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Yakutsk",
+    "location": "Asia/Yakutsk",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Yalta",
+    "location": "Europe/Simferopol",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Yangon",
+    "location": "Asia/Yangon",
+    "utc": "UTC+6:30"
+  },
+  {
+    "city": "Yaoundé",
+    "location": "Africa/Douala",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Yaren",
+    "location": "Pacific/Nauru",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Yekaterinburg",
+    "location": "Asia/Yekaterinburg",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Yelizovo",
+    "location": "Asia/Kamchatka",
+    "utc": "UTC+12"
+  },
+  {
+    "city": "Yellowknife",
+    "location": "America/Yellowknife",
+    "utc": "UTC-7"
+  },
+  {
+    "city": "Yeraliyev",
+    "location": "Asia/Aqtau",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Yerba Buena",
+    "location": "America/Argentina/Tucuman",
+    "utc": "UTC-3"
+  },
+  {
+    "city": "Yerevan",
+    "location": "Asia/Yerevan",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Yevlakh",
+    "location": "Asia/Baku",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Yevpatoriya",
+    "location": "Europe/Simferopol",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Yigo Village",
+    "location": "Pacific/Guam",
+    "utc": "UTC+10"
+  },
+  {
+    "city": "Yokohama",
+    "location": "Asia/Tokyo",
+    "utc": "UTC+9"
+  },
+  {
+    "city": "Yuen Long Kau Hui",
+    "location": "Asia/Hong Kong",
+    "utc": "UTC+8"
+  },
+  {
+    "city": "Yuzhno-Sakhalinsk",
+    "location": "Asia/Sakhalin",
+    "utc": "UTC+11"
+  },
+  {
+    "city": "Zadar",
+    "location": "Europe/Zagreb",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Zagreb",
+    "location": "Europe/Zagreb",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Zanzibar",
+    "location": "Africa/Dar es_Salaam",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Zaragoza",
+    "location": "Europe/Madrid",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Zarqa",
+    "location": "Asia/Amman",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Zenica",
+    "location": "Europe/Sarajevo",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Zhanaozen",
+    "location": "Asia/Aqtau",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Zhanjiang",
+    "location": "Asia/Urumqi",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Zhongshan",
+    "location": "Asia/Urumqi",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Zhumysker",
+    "location": "Asia/Oral",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Zhänibek",
+    "location": "Asia/Oral",
+    "utc": "UTC+5"
+  },
+  {
+    "city": "Zinder",
+    "location": "Africa/Niamey",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Znamensk",
+    "location": "Europe/Astrakhan",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Znamenskoye",
+    "location": "Asia/Omsk",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "Zomba",
+    "location": "Africa/Blantyre",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Zugdidi",
+    "location": "Asia/Tbilisi",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Zürich",
+    "location": "Europe/Zurich",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "la Massana",
+    "location": "Europe/Andorra",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "les Escaldes",
+    "location": "Europe/Andorra",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Århus",
+    "location": "Europe/Copenhagen",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Ölgii",
+    "location": "Asia/Hovd",
+    "utc": "UTC+7"
+  },
+  {
+    "city": "Ürümqi",
+    "location": "Asia/Urumqi",
+    "utc": "UTC+6"
+  },
+  {
+    "city": "İzmir",
+    "location": "Europe/Istanbul",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Łódź",
+    "location": "Europe/Warsaw",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Şabāḩ as Sālim",
+    "location": "Asia/Kuwait",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "Şalālah",
+    "location": "Asia/Muscat",
+    "utc": "UTC+4"
+  },
+  {
+    "city": "Šiauliai",
+    "location": "Europe/Vilnius",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Ţūlkarm",
+    "location": "Asia/Hebron",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Żabbar",
+    "location": "Europe/Malta",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Žilina",
+    "location": "Europe/Bratislava",
+    "utc": "UTC+1"
+  },
+  {
+    "city": "Ḩamāh",
+    "location": "Asia/Damascus",
+    "utc": "UTC+2"
+  },
+  {
+    "city": "Ḩawallī",
+    "location": "Asia/Kuwait",
+    "utc": "UTC+3"
+  },
+  {
+    "city": "‘Ohonua",
+    "location": "Pacific/Tongatapu",
+    "utc": "UTC+13"
+  }
+]
